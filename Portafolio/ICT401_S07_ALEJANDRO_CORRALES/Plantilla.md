@@ -50,9 +50,9 @@ Las capturas documentan orientación y correspondencia. **Este montaje no es un 
 
 | Par de vistas | Dimensión compartida | Valor comprobado en el modelo |
 |---|---|---:|
-| Frontal y superior | [Dimensión] | [mm] |
-| Frontal y lateral derecha | [Dimensión] | [mm] |
-| Superior y lateral derecha | [Dimensión] | [mm] |
+| Frontal y superior | [Ancho] | [60mm] |
+| Frontal y lateral derecha | [Altura] | [40mm] |
+| Superior y lateral derecha | [Profundidad] | [30mm] |
 
 - La línea interior de la vista superior representa: [Respuesta].
 - La línea horizontal de la lateral derecha representa: [Respuesta].
