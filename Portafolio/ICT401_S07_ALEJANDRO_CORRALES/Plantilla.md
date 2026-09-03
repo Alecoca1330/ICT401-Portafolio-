@@ -22,11 +22,11 @@ Seleccione una arista completa y anote su longitud en milímetros. Identifique f
 
 | Dato | Longitud medida (mm) | ¿Qué arista seleccioné? |
 |---|---:|---|
-| Ancho total | [60 mml] | [Descripción] |
-| Profundidad | [30mm] | [Descripción] |
-| Altura máxima | [40mm | [Descripción] |
-| Altura de la parte baja | [20mm] | [Descripción] |
-| Ancho de la parte alta | [20mm] | [Descripción] |
+| Ancho total | [60 mml] | [Inferios frontal] |
+| Profundidad | [30mm] | [paralela a y] |
+| Altura máxima | [40mm | [vertical exterior del lado alto] |
+| Altura de la parte baja | [20mm] | [vertical de lado bajo] |
+| Ancho de la parte alta | [20mm] | [superior frontal] |
 
 ### Evidencia del modelo y de una medición
 
