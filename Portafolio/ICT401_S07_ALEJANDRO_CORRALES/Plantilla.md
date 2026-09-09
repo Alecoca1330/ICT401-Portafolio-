@@ -30,7 +30,7 @@ Seleccione una arista completa y anote su longitud en milímetros. Identifique f
 
 ### Evidencia del modelo y de una medición
 
-![P1: arista seleccionada y longitud visible en Measure](S07_P1_Medida_Apellido_Nombre.png)
+![P1: arista seleccionada y longitud visible en Measure](S07_P1_Medida_Corrales_Alejandro.png)
 
 - Vistas que comparten ancho: [unicamente en la vista XZ].
 - Vistas que comparten altura: [Se puede ver en XZ Y YZ].
