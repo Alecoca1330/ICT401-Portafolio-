@@ -54,6 +54,43 @@ Las capturas documentan orientación y correspondencia. **Este montaje no es un 
 | Frontal y lateral derecha | [Altura] | [40mm] |
 | Superior y lateral derecha | [Profundidad] | [30mm] |
 
+La línea interior de la vista superior representa: el cambio de nivel entre la parte alta y la parte baja del escalón.
+La línea horizontal de la lateral derecha representa: el cambio de altura que forma el escalón del modelo.
+Una esquina del ViewCube no produce una vista principal porque: muestra el objeto desde varios ejes al mismo tiempo, por lo que genera una vista isométrica y no una vista principal.
+La lateral derecha se sitúa a la izquierda en este registro porque: se está utilizando el sistema de proyección de primer diedro.
+Corrección realizada después del punto de control: revisé la orientación de las vistas y comprobé que las dimensiones coincidieran correctamente entre la vista frontal, superior y lateral derecha.
+P3 — Auditoría usando el modelo
+Caso A
+Hipótesis inicial: pensé que el error se encontraba en la forma o altura mostrada en la vista frontal.
+Acción realizada en Fusion para comprobarla: seleccioné la vista Front desde el ViewCube y comparé directamente la forma del modelo con la vista del caso A.
+Error confirmado y corrección justificada: se confirmó que la representación no coincidía correctamente con la geometría del modelo. La vista correcta debe conservar el escalón y mostrar una altura máxima de 40 mm.
+Evidencia: vista frontal de P2.
+Caso B
+Hipótesis inicial: pensé que las dimensiones compartidas entre la vista frontal y la superior no coincidían.
+Acción realizada en Fusion y dimensión comprobada: utilicé Inspect > Measure y comprobé el ancho total del modelo, obteniendo un valor de 60 mm.
+Error confirmado y corrección justificada: se confirmó que ambas vistas deben representar el mismo ancho de 60 mm. Por eso, si aparecen con dimensiones diferentes en un dibujo a escala común, existe un error de correspondencia.
+¿Por qué este caso a escala común no equivale al zoom distinto de mis capturas?: porque en las capturas el zoom puede hacer que una vista se vea más grande o pequeña en la pantalla, pero las medidas reales del modelo siguen siendo las mismas.
+Evidencia: vistas frontal y superior de P2.
+Caso C
+Hipótesis inicial: pensé que el error estaba relacionado con la línea interior mostrada en la vista superior.
+Acción realizada en Fusion para comprobarla: seleccioné la vista Top y observé dónde ocurre el cambio de altura entre las dos partes del modelo.
+Error confirmado y corrección justificada: la línea interior debe aparecer porque representa el borde donde cambia la altura del escalón. Si se elimina o se coloca en otra posición, la vista superior no representa correctamente el modelo.
+Evidencia: vista superior de P2.
+Verificación de entrega
+
+El archivo personal está guardado en Fusion Cloud y accesible para el docente.
+
+Completé P1, P2 y P3 con mi trabajo.
+
+Las cinco imágenes se ven al abrir este archivo en GitHub.
+
+Las vistas principales provienen de cámara ortográfica y caras nombradas.
+
+Mi copia conserva el bloque original; no alteré su forma.
+
+El commit usa el mensaje S07 ejercicios Fusion Apellido Nombre.
+
+Esta práctica no sustituye ni duplica la entrega del Laboratorio I-A.
 - La línea interior de la vista superior representa: [Respuesta].
 - La línea horizontal de la lateral derecha representa: [Respuesta].
 - Una esquina del ViewCube no produce una vista principal porque: [Respuesta].
