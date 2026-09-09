@@ -43,7 +43,7 @@ Las capturas documentan orientación y correspondencia. **Este montaje no es un 
 
 | Lateral derecha | Frontal |
 |---|---|
-| ![Right de Fusion](S07_P1_Derecha_Corrales_Manuel.png) | ![Front de Fusion](S07_P1_Corrales_Frontales_Manuel.png) |
+| ![Right de Fusion](S07_P1_Derecha_Corrales_Manuel.png) | ![Front de Fusion](S07_P1_Frontal_Corrales_Manuel.png) |
 | Sin vista en esta posición | **Superior** <br> ![Top de Fusion](S07_P1_superior_Corrales_Manuel.png) |
 
 ### Correspondencias comprobadas
