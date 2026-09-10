@@ -33,29 +33,31 @@ X = ancho, Y = profundidad, Z = altura; milímetros. Primer diedro: Right a la i
 
 ### P1.4 · ¿Qué pares de vistas comparten ancho, altura y profundidad? Anote el valor comprobado en milímetros y la arista seleccionada.
 
-[Front y Top. con un valor de 60 mm]
+[Ancho:Front y Top. con un valor de 60 mm]
+[Altura: la comparten las vistas Front y Right con un valor de 36 mm]
+[Profundidad: la comparten las vistas Top y Rightcon un valor de 30 mm.]
 
 ### P1.5 · Elija una característica tridimensional: ¿cómo aparece en dos vistas diferentes? Identifique las caras o aristas relacionadas.
 
-[Respuesta]
+[Elegí uno de los cambios de altura de la pieza. En la vista Front se ve como una línea vertical entre un escalón y otro. En la vista Top, ese mismo cambio se ve como una línea que separa una parte de otra. Las dos líneas representan el mismo cambio de nivel, pero visto desde diferentes lados.]
 
 | Vista | Predicción inicial: características y dimensiones | Observación posterior | Corrección y causa |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | [Esperaba ver la vista completa de los 3 escalones, sin ver la profundidad ] | [Estaba en lo correcto si se ve corretamente los escalones ] | [Estaba en lo correcto no hay corrección] |
+| Top | [Esperaba observar un contorno rectangular con líneas donde cambian los niveles, mostrando ancho y profundidad] | [Se observa la superficie desde arriba y las divisiones correspondientes a los cambios de altura.] | [Se confrmo que se ven los cambios de altura] |
+| Right | [Esperaba observar principalmente un rectángulo definido por profundidad y altura.] | [Se observa la profundidad y la altura máxima de la pieza.] | [Tuve que considerar mejor las aristas proyectadas] |
 
 | Dimensión compartida | Par de vistas | Valor (mm) y arista seleccionada |
 |---|---|---|
-| Ancho | [Respuesta] | [Respuesta] |
-| Altura | [Respuesta] | [Respuesta] |
-| Profundidad | [Respuesta] | [Respuesta] |
+| Ancho | [Front y Top] | [60mm] |
+| Altura | [Front y Right] | [36] |
+| Profundidad | [Top y Right] | [30] |
 
 ### Evidencias
 
 Modelo completo en orientación pictórica, ViewCube y nombre de su copia visibles.
 
-![P1: Modelo](S08_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S08_P1_Modelo_Corrales_Alejandro.png)
 
 Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha y Top debajo de Front; etiquetas y cuerpo completo visibles.
 
