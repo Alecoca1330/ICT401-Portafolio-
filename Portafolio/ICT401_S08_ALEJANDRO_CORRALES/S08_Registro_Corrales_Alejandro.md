@@ -21,19 +21,19 @@ X = ancho, Y = profundidad, Z = altura; milímetros. Primer diedro: Right a la i
 
 ### P1.1 · Antes de seleccionar Front, Top o Right: ¿qué características, caras y aristas espera ver en cada vista y qué dimensiones aparecerán horizontal y verticalmente?
 
-[Respuesta]
+[Antes de comenzar a seleccionar espero ver una vista en general de las partes esenciales ya sea el ancho y una parte de la altura]
 
 ### P1.2 · ¿Cuál vista considera inicialmente más informativa y por qué?
 
-[Respuesta]
+[Inicialmente considero que la vista Front es la más informativa porque permite observar mejor los tres escalones y los cambios de altura de la pieza. ]
 
 ### P1.3 · Después de observar Front, Top y Right: ¿qué predicciones confirmó y qué corrigió? Explique por qué sin borrar su respuesta inicial.
 
-[Respuesta]
+[viendo todas las partes bien, me di cuenta que efectivamente front es la parte mas importante ya que es la vista que muestra con mayor claridad los tres niveles de la pieza y sus cambios de altura. También confirmé que Top permite observar el ancho y la profundidad total]
 
 ### P1.4 · ¿Qué pares de vistas comparten ancho, altura y profundidad? Anote el valor comprobado en milímetros y la arista seleccionada.
 
-[Respuesta]
+[Front y Top. con un valor de 60 mm]
 
 ### P1.5 · Elija una característica tridimensional: ¿cómo aparece en dos vistas diferentes? Identifique las caras o aristas relacionadas.
 
