@@ -68,38 +68,40 @@ Un montaje de tres capturas de Fusion: Right a la izquierda, Front a la derecha 
 
 ### P2.1 · ¿Qué forma general imagina y cuáles son sus cambios de altura?
 
-[Respuesta]
+[me imagino un forma rectangular con un escalon en una esquina, uno bajo que forma la base y otro más alto.]
 
 ### P2.2 · ¿La profundidad se mantiene o cambia entre zonas? Relacione las tres vistas.
 
-[Respuesta]
+[En la base se mantiene la misma profundidad en una esquina se observa una parte mas alta que las otras]
 
 ### P2.3 · ¿Qué correspondencias encuentra entre vistas?
 
-[Respuesta]
+[En Front y Right se observa una forma parecida a una L, porque ambas muestran el cambio de altura. La vista Top ayuda a ubicar dónde está esa parte alta]
 
 ### P2.4 · ¿Qué información aporta Top y qué información aporta Right?
 
-[Respuesta]
+[me da la información que en que parte se presenta el escalon mientras que en right informa que tan alta es esta parte
 
 ### P2.5 · Describa verbalmente la pieza imaginada antes de mirar las alternativas.
 
-[Respuesta]
+[Imagino una base rectangular baja con un bloque más alto en una de sus esquinas. La parte alta no ocupa toda la base, por eso se observa un cambio de altura tanto en Front como en Right]
 
 ### P2.6 · ¿Selecciona A, B, C o D? Justifique antes de comprobar y descarte cada una de las otras tres mediante una vista.
 
-[Respuesta]
-
+Selecciono el Modelo B, porque es el que considero que coincide mejor con las tres vistas. En Front se observa la parte alta al lado izquierdo, en Right también aparece un cambio de altura y en Top se nota que la parte elevada ocupa solamente una esquina.
+Descarto la A porque tiene una sola linea de escalón 
+Descarto la C porque la posicion del escalon estan en otro lado
+Descartamos la D porque la altura no coincide con las imágenes 
 ### P2.7 · Después de comprobar: ¿fue correcta su selección, qué interpretó incorrectamente si falló y qué vista fue decisiva? Conserve la selección inicial y explique la corrección.
 
-[Respuesta]
+[Después de comprobar el modelo, confirmé que mi selección del Modelo B fue correcta. La vista que más me ayudó fue Top, porque permitió ver la ubicación de la parte alta.]
 
 | Alternativa | Justificación inicial: seleccionar o descartar | Vista que apoya mi decisión |
 |---|---|---|
-| A | [Respuesta] | [Respuesta] |
-| B | [Respuesta] | [Respuesta] |
-| C | [Respuesta] | [Respuesta] |
-| D | [Respuesta] | [Respuesta] |
+| A | [La descarto porque la parte alta no coincide con la profundidad que se muestra.] | [Right] |
+| B | [es la correcta porque la parte alta coincide con su posición y con los cambios de altura.] | [Front, Right y Top] |
+| C | [La descarto porque la parte alta está en el centro de la pieza.] | [Top] |
+| D | [La descarto totalmente porque la ubicación de la parte alta no coincide con la vista desde arriba.] | [Respuesta] |
 
 ### Evidencias
 
@@ -112,29 +114,35 @@ Modelo correcto proporcionado por el docente durante la comprobación, en orient
 
 ### P3.1 · Caso A: ¿qué vista parece incorrecta, qué línea produce la inconsistencia, con cuál otra vista entra en contradicción y cómo debería corregirse?
 
-[Respuesta]
+[La vista que parece estar incorrecta es Top. La línea horizontal interna se alarga más de lo que debería y llega hasta el lado derecho. Esa línea debería terminar cuando se encuentra con la línea vertical interna. Al comparar con Front, se nota que la parte alta solo ocupa una zona de la pieza y no continúa por todo el ancho.]
 
 ### P3.2 · Caso B: ¿qué dimensión debería conservarse, dónde aparece la contradicción, qué información permite comprobarla y cómo debería corregirse?
 
-[Respuesta]
+[La profundidad debe ser la misma en Top y en Right, porque las dos vistas representan la misma dimensión de la pieza. En el caso aparece una profundidad de 48 mm en Top y de 40 mm en Right, por lo que hay una contradicción.
+
+La medida que debe conservarse es 40 mm y la vista Top debería corregirse de 48 mm a 40 mm. Esto se puede comprobar en Fusion usando la herramienta Measure sobre la profundidad completa del sólido.]
 
 ### P3.3 · Caso C: ¿cuál vista no pertenece al conjunto, qué característica lo demuestra, con cuáles vistas entra en contradicción y qué debería mostrar una vista correcta?
 
-[Respuesta]
+[En este caso la vista que no pertenece al conjunto es Front. En esa vista la parte alta aparece del lado derecho, pero al compararla con Top y Right se nota que debería estar del lado izquierdo. La vista Front correcta debería mostrar la parte alta a la izquierda y la parte baja extendiéndose hacia la derecha.]
 
 ### P3.4 · Para cada caso: ¿qué acción realizó en Fusion, qué observó y cómo corrigió su hipótesis inicial?
 
-[Respuesta]
+[En el Caso A, puse el modelo en vista Top y revisé las aristas. Observé que la línea interna no debía continuar por todo el ancho, sino terminar donde se encuentra con la otra arista.
+
+En el Caso B, utilicé Measure para revisar la profundidad total del modelo. Así se puede comprobar cuál de las dos medidas es la correcta y corregir la que no coincide.
+
+En el Caso C, puse el modelo en vista Front y observé la posición de la parte alta. Confirmé que se encuentra del lado izquierdo, por lo que la vista Front presentada en el caso estaba invertida y pertenecía a otra pieza.]
 
 ### P3.5 · ¿Qué caso documentó en la captura y qué detalle demuestra el error?
 
-[Respuesta]
+[Escogí el Caso B. En la captura se ve Measure, y eso demuestra que la profundidad real del modelo no coincide con una de las medidas dadas en las vistas. Como Top y Right deben tener la misma profundidad, ahí se confirma el error.]
 
 | Caso | Hipótesis inicial | Acción en Fusion y observación | Corrección y causa |
 |---|---|---|---|
-| A | [Respuesta] | [Respuesta] | [Respuesta] |
-| B | [Respuesta] | [Respuesta] | [Respuesta] |
-| C | [Respuesta] | [Respuesta] | [Respuesta] |
+| A | [Pensé que la línea horizontal de Top estaba incorrecta.] | [Revisé la vista Top y observé dónde terminan las aristas] | [Confirmé que la línea horizontal no debe continuar hasta el lado derecho.] |
+| B | [Noté que 48 mm y 40 mm no podían representar la misma profundidad.] | [Revisé la profundidad con Measure.] | [La profundidad debe ser la misma en Top y Right; se corrige Top a 40 mm.] |
+| C | [Pensé que Front no pertenecía al conjunto.] | [Revisé la vista Front del modelo y observé la posición de la parte alta.] | [Confirmé que la parte alta debe estar a la izquierda y no a la derecha.] |
 
 ### Evidencias
 
