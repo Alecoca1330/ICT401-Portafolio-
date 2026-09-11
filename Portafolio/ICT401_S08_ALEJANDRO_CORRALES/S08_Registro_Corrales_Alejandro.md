@@ -193,7 +193,7 @@ Modelo terminado completo en orientación pictórica, nombre del diseño y ViewC
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
-![P4: Comparacion](S08_P4_Comparacion_Apellido_Nombre.png)
+![P4: Comparacion](S08_P4_Comparacion_Corrales_Alejandro.png)
 
 
 ## P5 — Reto de reconstrucción autónoma
