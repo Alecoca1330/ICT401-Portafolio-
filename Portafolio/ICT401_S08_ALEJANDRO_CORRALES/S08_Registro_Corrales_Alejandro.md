@@ -107,7 +107,7 @@ Descartamos la D porque la altura no coincide con las imágenes
 
 Modelo correcto proporcionado por el docente durante la comprobación, en orientación pictórica, con nombre y ViewCube visibles.
 
-![P2: Seleccion](S08_P2_Seleccion_Apellido_Nombre.png)
+![P2: Seleccion](S08_P2_Seleccion_Corrales_Casanova.png)
 
 
 ## P3 — Detectives de vistas
