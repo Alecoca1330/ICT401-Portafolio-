@@ -107,7 +107,7 @@ Descartamos la D porque la altura no coincide con las imágenes
 
 Modelo correcto proporcionado por el docente durante la comprobación, en orientación pictórica, con nombre y ViewCube visibles.
 
-![P2: Seleccion](S08_P2_Seleccion_Corrales_Casanova.png)
+![P2: Seleccion](S08_P2_Seleccion_Corrales_Alejandro.png)
 
 
 ## P3 — Detectives de vistas
@@ -148,7 +148,7 @@ En el Caso C, puse el modelo en vista Front y observé la posición de la parte 
 
 Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles. Para el caso B, incluya Measure con la arista completa y su longitud.
 
-![P3: Error](S08_P3_Error_Apellido_Nombre.png)
+![P3: Error](S08_P3_Error_Corrales_Alejandro.png)
 
 
 ## P4 — Reconstrucción 3D guiada
