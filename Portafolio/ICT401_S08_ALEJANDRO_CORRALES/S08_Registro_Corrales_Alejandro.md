@@ -200,23 +200,31 @@ Montaje con tres pares: vista de referencia de esta guía junto a su correspondi
 
 ### P5.1 · Antes de modelar: indique ancho total, altura máxima y profundidad total.
 
-[Respuesta]
+[La pieza mide 72 mm de ancho, 40 mm de alto y 48 mm de profundidad.]
 
 ### P5.2 · ¿Qué vista elegirá para comenzar, qué plano inicial y qué primera operación prevé? Justifique.
 
-[Respuesta]
+[primero comenzaré con la vista Top y usaré el plano XY. Primero haré un rectángulo de 72 mm por 48 mm y después lo extruiré para formar la base. Elegí Top porque ahí se ve mejor la forma general de la pieza y los cambios de profundidad.]
 
 ### P5.3 · ¿Qué características posteriores prevé, cuál es la más difícil de interpretar y qué vistas necesita relacionar para comprenderla?
 
-[Respuesta]
+[Después de hacer la base, voy a agregar las partes más altas según las medidas. En Front los cambios están en X = 24 mm y X = 48 mm, y las alturas son 12 mm, 24 mm y 40 mm.
+
+Lo que me parece más difícil es entender cómo cambian esas alturas con la profundidad. Para eso necesito comparar Top con Right, porque ahí aparecen los cambios en Y = 18 mm y Y = 30 mm.]
 
 ### P5.4 · Después de construir: ¿coinciden Front, Top y Right? Para cada vista cite un contorno, una arista y una dimensión comprobada.
 
-[Respuesta]
+[Sí, las tres vistas coinciden.
+
+En Front se ven los tres niveles de altura y los cambios en X = 24 mm y X = 48 mm. El ancho total es de 72 mm y la altura máxima es de 40 mm.
+
+En Top se observa el ancho de 72 mm y la profundidad de 48 mm. También aparecen los cambios en X = 24 mm, X = 48 mm, Y = 18 mm y Y = 30 mm.
+
+En Right se ve la profundidad total de 48 mm y los cambios de altura conforme aumenta la profundidad. Los cambios están en Y = 18 mm y Y = 30 mm, con alturas de 40 mm, 24 mm y 12 mm.]
 
 ### P5.5 · ¿Funcionó la estrategia inicial, qué tuvo que modificar, qué vista permitió detectarlo y qué haría diferente si reconstruyera nuevamente la pieza?
 
-[Respuesta]
+[Sí, la estrategia inicial funcionó. Lo más importante fue revisar bien las medidas de Top y Right, porque ahí se entiende cómo cambia la profundidad de la pieza. Si la hiciera otra vez, primero marcaría todas las divisiones de X y Y en el boceto para no confundirme con las alturas.]
 
 | Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
 |---|---|---|---|---|
@@ -228,7 +236,7 @@ Montaje con tres pares: vista de referencia de esta guía junto a su correspondi
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P5: Modelo](S08_P5_Modelo_Apellido_Nombre.png)
+![P5: Modelo](S08_P5_Modelo_Corrales_Alejandro.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
