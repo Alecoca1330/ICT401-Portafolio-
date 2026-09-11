@@ -155,35 +155,41 @@ Una vista de Fusion que compruebe uno de los errores; nombre y ViewCube visibles
 
 ### P4.1 · Antes de abrir Fusion: indique ancho total, altura máxima, profundidad total y número de niveles o cambios principales.
 
-[Respuesta]
+[La pieza mide 64 mm de ancho, 40 mm de profundidad y su altura máxima es de 40 mm. Tiene tres niveles de altura: 10 mm, 28 mm y 40 mm.]
 
 ### P4.2 · ¿Qué vista usará como referencia, qué plano inicial elegirá y cómo será su boceto base? Justifique relacionando las vistas.
 
-[Respuesta]
+[Usé como referencia la vista superio y empecé en el plano XY. Hice un rectángulo de 64 mm por 40 mm, porque esa vista muestra bien el tamaño de la base de la pieza.]
 
 ### P4.3 · ¿Cuál será su primera operación 3D y qué características posteriores prevé? Justifique.
 
-[Respuesta]
+[Primero que todo extruí la base 10 mm. Después hice otra extrusión de 18 mm en la parte de atrás para llegar a 28 mm. Por último, extruí 12 mm más en la parte de atrás a la izquierda para llegar a 40 mm. En las extrusiones usé Unir para que todo quedara en una sola pieza.]
 
 ### P4.4 · Después de construir: ¿coincide Front, coincide Top y coincide Right? Para cada vista cite un contorno, una arista y una dimensión comprobada.
 
-[Respuesta]
+[Sí, las tres vistas coinciden.
+
+En Front se ve el cambio de altura y se puede comprobar el ancho total de 64 mm y la altura máxima de 40 mm.
+
+En Top se ve el rectángulo de 64 mm por 40 mm y también las líneas que separan las diferentes partes.
+
+En Right se ve la profundidad de 40 mm y la altura máxima de 40 mm.]
 
 ### P4.5 · ¿Qué fue necesario corregir y qué Sketch, operación o dimensión controlaba la corrección? Si no hubo cambios, justifique con una comprobación.
 
-[Respuesta]
+[No tuve que hacer muchos cambios. Solo revisé que las medidas estuvieran bien y que las extrusiones quedaran en el lugar correcto. También comprobé que las alturas finales fueran 10 mm, 28 mm y 40 mm.]
 
-| Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
+| Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada | Corrección |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Sí | Se ven los cambios de altura | 64 mm de ancho y 40 mm de alto | Revisé que las alturas estuvieran bien |
+| Top | Sí | Se ve la forma rectangular y las divisiones | 64 mm × 40 mm | Revisé la posición de las líneas |
+| Right | Sí | Se ve el cambio de nivel | 40 mm de profundidad y 40 mm de alto | Revisé las alturas |
 
 ### Evidencias
 
 Modelo terminado completo en orientación pictórica, nombre del diseño y ViewCube visibles.
 
-![P4: Modelo](S08_P4_Modelo_Apellido_Nombre.png)
+![P4: Modelo](S08_P4_Modelo_Corrales_Alejandro.png)
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
