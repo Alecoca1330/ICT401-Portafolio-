@@ -228,9 +228,9 @@ En Right se ve la profundidad total de 48 mm y los cambios de altura conforme au
 
 | Vista | ¿Coincide? | Contorno y arista | Dimensión comprobada (mm) | Corrección y causa |
 |---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Sí | Se ven los tres cambios de altura | 72 mm de ancho y 40 mm de alto | Revisé los cambios en X = 24 mm y X = 48 mm |
+| Top | Sí | Se ve la forma general y las divisiones | 72 mm × 48 mm | Revisé los cambios en X y Y |
+| Right | Sí | Se ven los cambios de altura con la profundidad | 48 mm de profundidad y 40 mm de alto | Revisé los cambios en Y = 18 mm y Y = 30 mm |
 
 ### Evidencias
 
@@ -240,45 +240,45 @@ Modelo terminado completo en orientación pictórica, nombre del diseño y ViewC
 
 Montaje con tres pares: vista de referencia de esta guía junto a su correspondiente vista de Fusion. Disponga Right a la izquierda, Front a la derecha y Top debajo de Front.
 
-![P5: Comparacion](S08_P5_Comparacion_Apellido_Nombre.png)
+![P5: Comparacion](S08_P5_Comparación_Corrales_Alejandro.png)
 
 ## Reflexión final
 
-Una vista por sí sola puede ser insuficiente porque:
+### Una vista por sí sola puede ser insuficiente porque:
 
-[Respuesta]
+Con una sola vista no siempre se entiende bien cómo es la pieza completa, porque puede faltar información sobre la altura, el ancho o la profundidad. Por eso es mejor comparar Front, Top y Right.
 
-Para relacionar correctamente varias vistas debo comprobar:
+### Para relacionar correctamente varias vistas debo comprobar:
 
-[Respuesta]
+Debo fijarme en que las medidas coincidan entre las vistas y ver dónde están los cambios de altura, ancho y profundidad. También hay que revisar bien la posición de las líneas y aristas.
 
-Antes de comenzar una reconstrucción 3D conviene:
+### Antes de comenzar una reconstrucción 3D conviene:
 
-[Respuesta]
+Conviene revisar primero todas las vistas y anotar las medidas principales. También ayuda pensar cuál vista es más fácil para empezar el boceto y así evitar tener que corregir tanto después.
 
-La diferencia principal entre lo que hice en Semana 7 y Semana 8 es:
+### La diferencia principal entre lo que hice en Semana 7 y Semana 8 es:
 
-[Respuesta]
+En la Semana 8 tuve que comparar más las vistas y entender mejor cómo se relacionan entre sí para poder construir la pieza en Fusion. No fue solo copiar una forma, sino tratar de imaginar primero cómo era en 3D.
 
-Lo que todavía necesito practicar antes de reconstruir una pieza a partir de un plano es:
+### Lo que todavía necesito practicar antes de reconstruir una pieza a partir de un plano es:
 
-[Respuesta]
+Todavía necesito practicar un poco más cómo interpretar las vistas, sobre todo cuando cambian varias alturas y profundidades al mismo tiempo. También quiero mejorar usando las medidas para no confundirme tanto al hacer los bocetos.
 
 ## Checklist
 
-- [ ] Completé P1 antes y después de observar las vistas.
-- [ ] Justifiqué mi selección en P2.
-- [ ] Identifiqué y comprobé inconsistencias en P3.
-- [ ] Planifiqué P4 antes de comenzar a modelar.
-- [ ] Comprobé P4 contra las tres vistas originales.
-- [ ] Realicé P5 con mayor autonomía.
-- [ ] Comprobé P5 contra las vistas originales.
-- [ ] Respondí las preguntas de reflexión.
-- [ ] Las ocho imágenes se visualizan correctamente en GitHub.
-- [ ] Mis modelos P4 y P5 están disponibles para revisión docente en Fusion Cloud.
-- [ ] Conservé mis predicciones iniciales aunque fueran incorrectas.
-- [ ] Expliqué las correcciones realizadas.
-- [ ] El commit utiliza el mensaje solicitado.
+- [x ] Completé P1 antes y después de observar las vistas.
+- [x ] Justifiqué mi selección en P2.
+- [ x] Identifiqué y comprobé inconsistencias en P3.
+- [ x] Planifiqué P4 antes de comenzar a modelar.
+- [ x] Comprobé P4 contra las tres vistas originales.
+- [ x] Realicé P5 con mayor autonomía.
+- [ x] Comprobé P5 contra las vistas originales.
+- [ x] Respondí las preguntas de reflexión.
+- [ x] Las ocho imágenes se visualizan correctamente en GitHub.
+- [ x] Mis modelos P4 y P5 están disponibles para revisión docente en Fusion Cloud.
+- [ x] Conservé mis predicciones iniciales aunque fueran incorrectas.
+- [ x] Expliqué las correcciones realizadas.
+- [ x] El commit utiliza el mensaje solicitado.
 
 Commit: `S08 ejercicios Fusion Apellido Nombre`.
 
