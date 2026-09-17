@@ -160,15 +160,15 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 Modelo final en orientación pictórica, con nombre y ViewCube visibles.
 
-![P3: Modelo final](S09_P3_Modelo_Apellido_Nombre.png)
+![P3: Modelo final](S09_P3_Modelo_Corrales_Alejandro.png)
 
 Montaje de Front, Top y Right del modelo para compararlos con el plano.
 
-![P3: Vistas](S09_P3_Vistas_Apellido_Nombre.png)
+![P3: Vistas](S09_P3_Vistas_Corrales_Alejandro.png)
 
 Captura de una comprobación dimensional con `Inspect > Measure`.
 
-![P3: Medicion](S09_P3_Medicion_Apellido_Nombre.png)
+![P3: Medicion](S09_P3_Medicion_Corrales_Alejandro.png)
 
 ---
 
@@ -176,31 +176,35 @@ Captura de una comprobación dimensional con `Inspect > Measure`.
 
 La diferencia principal entre reconstruir una pieza en Semana 8 y reconstruirla desde un plano en Semana 9 es:
 
-[Respuesta]
+En la Semana 9 tuve que analizar mejor las vistas y las medidas antes de comenzar a trabajar en Fusion. No tenía un modelo 3D para guiarme, entonces tuve que entender cómo era la pieza usando solamente el plano.
 
 Antes de abrir Fusion, la información mínima que debo extraer de un plano es:
 
-[Respuesta]
+Las medidas principales de la pieza, como el ancho, la profundidad y la altura. También debo revisar dónde se encuentra cada parte y observar bien las vistas Front, Top y Right.
 
 Una estrategia de modelado es mejor que otra cuando:
 
-[Respuesta]
+Permite hacer la pieza de una manera ordenada, se entiende bien cada paso y es fácil cambiar alguna medida después si es necesario.
 
 La comprobación final más importante para asegurar que el modelo corresponde al plano es:
 
-[Respuesta]
+Comparar las vistas Front, Top y Right con el plano y revisar las medidas principales en Fusion para comprobar que todo quedó en la posición y tamaño correctos.
 
 ## Checklist
 
-- [ ] Registré la estrategia inicial de P1 antes de comprobar en Fusion.
-- [ ] Comparé dos estrategias en P2 y justifiqué mi selección.
-- [ ] Reconstruí P3 a partir del plano sin usar un modelo 3D de referencia.
-- [ ] Comparé Front, Top y Right contra el plano.
-- [ ] Verifiqué al menos cuatro dimensiones críticas en P3.
-- [ ] Documenté las correcciones sin borrar mis decisiones iniciales.
-- [ ] Las cinco imágenes se visualizan correctamente en GitHub.
-- [ ] Los modelos P1–P3 están disponibles en Fusion Cloud con acceso docente.
-- [ ] Completé la reflexión final.
+- [x] Registré la estrategia inicial de P1 antes de comprobar en Fusion.
+- [x] Comparé dos estrategias en P2 y justifiqué mi selección.
+- [x] Reconstruí P3 a partir del plano sin usar un modelo 3D de referencia.
+- [x] Comparé Front, Top y Right contra el plano.
+- [x] Verifiqué al menos cuatro dimensiones críticas en P3.
+- [x] Documenté las correcciones sin borrar mis decisiones iniciales.
+- [x] Las cinco imágenes se visualizan correctamente en GitHub.
+- [x] Los modelos P1–P3 están disponibles en Fusion Cloud con acceso docente.
+- [x] Completé la reflexión final.
+
+Commit sugerido: `S09 ejercicios Fusion Apellido Nombre`.
+
+Corrección posterior: `S09 correccion Fusion Apellido Nombre`.
 
 Commit sugerido: `S09 ejercicios Fusion Apellido Nombre`.
 
