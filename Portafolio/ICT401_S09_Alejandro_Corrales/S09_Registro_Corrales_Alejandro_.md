@@ -110,43 +110,45 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 
 ### P3.1 · Antes de modelar, describa la pieza en una frase técnica
 
-[Respuesta]
+[Es una pieza formada por una base rectangular, una parte elevada atrás, un agujero circular y una ranura rectangular que pasan a través de la pieza]
 
 ### P3.2 · Dimensiones y características clave
 
 | Elemento | Valor o descripción | Vista(s) de donde se obtiene |
 |---|---|---|
-| X total | [Respuesta] | [Respuesta] |
-| Y total | [Respuesta] | [Respuesta] |
-| Z total | [Respuesta] | [Respuesta] |
-| Característica 1 | [Respuesta] | [Respuesta] |
-| Característica 2 | [Respuesta] | [Respuesta] |
-| Característica 3 | [Respuesta] | [Respuesta] |
+| X total | 80 mm | Front y Top |
+| Y total | 50 mm | Top y Right |
+| Z total | 30 mm | Front y Right |
+| Característica 1 | Resalte de 45 × 30 mm, inicia en Y = 20 | Top |
+| Característica 2 | Agujero de Ø12 mm, centro (22, 35) | Top |
+| Característica 3 | Ranura de 12 × 16 mm, ubicada en X = 60–72 y Y = 8–24 | Top |
 
 ### P3.3 · Estrategia inicial
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
+1. Primero haría la forma de la base con las medidas que aparecen en el plano.
+2. Después le daría la altura correspondiente a la base.
+3. Luego agregaría la parte elevada que se encuentra atrás.
+4. Haría el agujero circular respetando su medida y ubicación.
+5. Por último, haría la ranura rectangular y la cortaría hasta atravesar la pieza.
 
 ### P3.4 · Verificación de vistas
 
 | Vista | ¿Coincide con el plano? | Contorno/característica comprobada | Corrección realizada |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Sí | Comparé el ancho y la altura de la pieza | No fue necesario cambiar nada |
+| Top | Sí | Revisé dónde estaban el resalte, el agujero y la ranura | Cambié un poco la ubicación de la ranura |
+| Right | Sí | Comparé la profundidad y la parte elevada | No necesité hacer cambios |
 
-### P3.5 · Verificación dimensional
+### P3.2 · Dimensiones y características clave
 
-| Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento medido | ¿Coincide? |
-|---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Elemento | Valor o descripción | Vista(s) de donde se obtiene |
+|---|---|---|
+| X total | 80 mm | Front y Top |
+| Y total | 50 mm | Top y Right |
+| Z total | 30 mm | Front y Right |
+| Característica 1 | Resalte de 45 × 30 mm, inicia en Y = 20 | Top |
+| Característica 2 | Agujero de Ø12 mm, centro (22, 35) | Top |
+| Característica 3 | Ranura de 12 × 16 mm, ubicada en X = 60–72 y Y = 8–24 | Top |
 
 ### P3.6 · ¿Qué cambió entre su estrategia inicial y el modelo final?
 
