@@ -31,28 +31,28 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 | Nº | Característica | Descripción | Vista(s) que la definen | Dimensiones asociadas |
 |---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| 1 | Base | Parte principal de la pieza | Front, Top y Right | 90 × 60 mm |
+| 2 | Plataforma | Parte elevada ubicada atrás | Front, Top y Right | X = 0–60, Y = 25–60 |
+| 3 | Torre | Parte más alta de la pieza | Front, Top y Right | X = 0–25, Y = 25–60 |
+| 4 | Agujero | Agujero circular que atraviesa la pieza | Top | Ø14 mm, centro (42,42) |
+| 5 | Ranura | Corte rectangular que atraviesa la pieza | Top | 14 × 12 mm, X = 68–82, Y = 10–22 |
 
 ### A3 · Describa la pieza en una frase técnica antes de abrir Fusion
 
-[Respuesta]
+[Es una pieza rectangular que tiene diferentes niveles de altura, con una parte elevada, una torre, un agujero circular y una ranura rectangular.]
 
 ### A4 · ¿Qué plano de boceto utilizará primero y por qué?
 
-[Respuesta]
+[Empezaría usando el plano XY (Top), porque desde ahí puedo hacer la forma de la base con sus medidas de ancho y profundidad, y después darle la altura necesaria.]
 
 ### A5 · Estrategia inicial de modelado
 
-1. [Respuesta]
-2. [Respuesta]
-3. [Respuesta]
-4. [Respuesta]
-5. [Respuesta]
-6. [Respuesta]
+1. Comenzaría haciendo la parte de abajo de la pieza.
+2. Luego le daría la altura que muestra el plano.
+3. Después haría la plataforma en la posición indicada.
+4. Agregaría la torre para formar la parte más alta.
+5. Haría el agujero circular con su medida y ubicación.
+6. Al final haría la ranura rectangular y el corte correspondiente.
 
 ---
 
@@ -60,61 +60,55 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### B1 · Boceto base
 
-- Plano seleccionado: [Respuesta]
-- Geometría principal: [Respuesta]
-- Restricciones aplicadas: [Respuesta]
-- Dimensiones aplicadas: [Respuesta]
-- Estado del boceto: [Respuesta]
+- Plano seleccionado: Plano XY (Top).
+- Geometría principal: Hice un rectángulo para comenzar la pieza.
+- Restricciones aplicadas: Usé restricciones horizontales y verticales para mantener la forma.
+- Dimensiones aplicadas: Coloqué 90 mm de ancho y 60 mm de profundidad.
+- Estado del boceto: El boceto quedó completamente definido.
+  
+### B2 · Operaciones realizadas
 
-### B2 · Operaciones principales realizadas
+| Nº | Operación | Qué hice |
+|---|---|---|
+| 1 | Extrude | Le di altura a la base de la pieza. |
+| 2 | Sketch + Extrude | Dibujé la plataforma y después la levanté. |
+| 3 | Sketch + Extrude | Hice la torre para completar la parte más alta. |
+| 4 | Sketch + Cut | Dibujé el círculo de Ø14 mm y realicé el agujero. |
+| 5 | Sketch + Cut | Hice la forma de la ranura y luego realicé el corte. |
+| 6 | Verificación | Comparé la pieza con el plano para revisar que estuviera correcta. |
 
-| Orden | Operación | Propósito geométrico | Parámetro/dimensión principal | Resultado |
-|---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 6 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+### B3 · Cambios realizados durante el modelado
 
-### B3 · Cambios respecto a la estrategia inicial
-
-| Cambio realizado | Motivo | Vista/dimensión que reveló el problema | Sketch/operación corregida |
-|---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-
+| Nº | Cambio realizado | Razón |
+|---|---|---|
+| 1 | Cambié un poco la posición de la plataforma. | Para acomodarla mejor según el plano. |
+| 2 | Moví el agujero a la ubicación correcta. | Para que quedara donde indican las medidas. |
+| 3 | Ajusté la ranura rectangular. | Para que su posición coincidiera con el plano. |
 ---
 
-## C. Verificación contra el plano
+## C · Verificación del modelo
 
-### C1 · Correspondencia de vistas
+### C1 · Comparación de vistas
 
-| Vista | ¿Coincide? | Evidencia geométrica | Diferencia detectada | Corrección realizada |
-|---|---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Vista | ¿Coincide con el plano? | Qué revisé |
+|---|---|---|
+| Front | Sí | Comparé el ancho y las alturas de la pieza con el plano. |
+| Top | Sí | Revisé que cada parte estuviera ubicada en el lugar correcto. |
+| Right | Sí | Comparé la profundidad y la forma de los diferentes niveles. |
 
-### C2 · Comprobación dimensional
+### C2 · Verificación de dimensiones
 
-| Nº | Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento seleccionado | ¿Coincide? |
-|---|---|---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| 5 | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Medida revisada | Medida del plano | Medida del modelo | ¿Está correcta? |
+|---|---:|---:|---|
+| Ancho de la pieza | 90 mm | 90 mm | Sí |
+| Profundidad de la pieza | 60 mm | 60 mm | Sí |
+| Altura de la pieza | 42 mm | 42 mm | Sí |
+| Agujero circular | Ø14 mm | Ø14 mm | Sí |
+| Ranura rectangular | 14 × 12 mm | 14 × 12 mm | Sí |
 
 ### C3 · Editabilidad paramétrica
 
-Si una dimensión principal de la pieza cambiara, indique qué Sketch, dimensión u operación tendría que editar y por qué.
-
-[Respuesta]
-
----
-
+La pieza quedó hecha por partes y con sus medidas definidas. Si después necesito cambiar alguna medida, puedo entrar al Sketch de esa parte, modificarla y actualizar el modelo sin tener que comenzar desde cero.
 ## D. Evidencias
 
 ### D1 · Modelo final
