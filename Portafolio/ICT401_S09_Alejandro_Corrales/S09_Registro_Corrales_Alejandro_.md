@@ -139,24 +139,22 @@ Captura del historial/timeline y del modelo obtenido con la estrategia seleccion
 | Top | Sí | Revisé dónde estaban el resalte, el agujero y la ranura | Cambié un poco la ubicación de la ranura |
 | Right | Sí | Comparé la profundidad y la parte elevada | No necesité hacer cambios |
 
-### P3.2 · Dimensiones y características clave
+### P3.5 · Verificación dimensional
 
-| Elemento | Valor o descripción | Vista(s) de donde se obtiene |
-|---|---|---|
-| X total | 80 mm | Front y Top |
-| Y total | 50 mm | Top y Right |
-| Z total | 30 mm | Front y Right |
-| Característica 1 | Resalte de 45 × 30 mm, inicia en Y = 20 | Top |
-| Característica 2 | Agujero de Ø12 mm, centro (22, 35) | Top |
-| Característica 3 | Ranura de 12 × 16 mm, ubicada en X = 60–72 y Y = 8–24 | Top |
+| Dimensión crítica | Valor del plano | Valor medido en Fusion | Elemento medido | ¿Coincide? |
+|---|---|---|---|---|
+| 1 | 80 mm | 80 mm | Ancho total de la pieza | Sí |
+| 2 | 50 mm | 50 mm | Profundidad total | Sí |
+| 3 | 30 mm | 30 mm | Altura total de la pieza | Sí |
+| 4 | 12 mm | 12 mm | Diámetro del agujero | Sí |
 
 ### P3.6 · ¿Qué cambió entre su estrategia inicial y el modelo final?
 
-[Respuesta]
+[Seguí casi todos los pasos que había pensado al inicio, pero al revisar el modelo tuve que acomodar la ranura para que quedara en el lugar correcto según el plano.]
 
 ### P3.7 · Si tuviera que cambiar una dimensión principal, ¿qué Sketch, dimensión u operación editaría?
 
-[Respuesta]
+[Si tuviera que cambiar alguna medida, buscaría el Sketch donde hice esa parte y cambiaría la dimensión que necesite. Por ejemplo, para cambiar el ancho de la base, modificaría la medida en el primer Sketch.]
 
 ### Evidencias P3
 
