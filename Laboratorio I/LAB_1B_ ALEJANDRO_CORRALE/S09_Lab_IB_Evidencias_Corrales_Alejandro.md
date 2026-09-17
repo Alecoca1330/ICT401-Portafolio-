@@ -121,25 +121,25 @@ Modelo completo en orientación pictórica, con nombre del diseño y ViewCube vi
 
 Montaje de Front, Top y Right del modelo, presentado de manera clara para comparar con el plano base.
 
-![Lab I-B: Vistas](S09_LabIB_Vistas_Corrales_Manuel.png)
+![Lab I-B: Vistas](S09_LabIB_Vistas_Corrales_Alejandro.png)
 
 ### D3 · Boceto y restricciones
 
 Captura del boceto más representativo con restricciones y dimensiones visibles.
 
-![Lab I-B: Boceto](S09_LabIB_Boceto_Apellido_Nombre.png)
+![Lab I-B: Boceto](S09_LabIB_Boceto_Corrales_Alejandro.png)
 
 ### D4 · Timeline / historial paramétrico
 
 Captura donde se observen las operaciones principales del historial del modelo.
 
-![Lab I-B: Timeline](S09_LabIB_Timeline_Apellido_Nombre.png)
+![Lab I-B: Timeline](S09_LabIB_Timeline_Corrales_Alejandro.png)
 
 ### D5 · Verificación dimensional
 
 Captura de `Inspect > Measure` con una dimensión crítica y el elemento seleccionado visibles.
 
-![Lab I-B: Medicion](S09_LabIB_Medicion_Apellido_Nombre.png)
+![Lab I-B: Medicion](S09_LabIB_Medicion_Corrales_Alejandro.png)
 
 ---
 
