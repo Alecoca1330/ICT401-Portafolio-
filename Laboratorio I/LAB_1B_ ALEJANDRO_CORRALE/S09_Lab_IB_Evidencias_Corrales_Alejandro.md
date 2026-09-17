@@ -145,18 +145,18 @@ Captura de `Inspect > Measure` con una dimensión crítica y el elemento selecci
 
 ## E. Checklist de entrega
 
-- [ ] Analicé el plano antes de comenzar el modelado.
-- [ ] Registré X, Y y Z totales.
-- [ ] Identifiqué las características principales y las vistas que las definen.
-- [ ] Registré una estrategia inicial antes de modelar.
-- [ ] El modelo final corresponde a Front, Top y Right.
-- [ ] Verifiqué al menos cinco dimensiones críticas.
-- [ ] Los bocetos principales tienen restricciones y dimensiones coherentes.
-- [ ] El historial de operaciones es legible y editable.
-- [ ] El nombre del archivo cumple la nomenclatura solicitada.
-- [ ] El archivo editable está disponible en Fusion Cloud con acceso docente.
-- [ ] Las cinco evidencias se visualizan correctamente en GitHub.
-- [ ] Esta ficha está completa.
+- [xxx ] Analicé el plano antes de comenzar el modelado.
+- [x ] Registré X, Y y Z totales.
+- [x ] Identifiqué las características principales y las vistas que las definen.
+- [x ] Registré una estrategia inicial antes de modelar.
+- [ xx] El modelo final corresponde a Front, Top y Right.
+- [ x] Verifiqué al menos cinco dimensiones críticas.
+- [ x] Los bocetos principales tienen restricciones y dimensiones coherentes.
+- [x ] El historial de operaciones es legible y editable.
+- [ x] El nombre del archivo cumple la nomenclatura solicitada.
+- [xx ] El archivo editable está disponible en Fusion Cloud con acceso docente.
+- [x ] Las cinco evidencias se visualizan correctamente en GitHub.
+- [x ] Esta ficha está completa.
 
 ---
 
