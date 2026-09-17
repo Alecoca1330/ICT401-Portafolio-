@@ -115,13 +115,13 @@ La pieza quedó hecha por partes y con sus medidas definidas. Si después necesi
 
 Modelo completo en orientación pictórica, con nombre del diseño y ViewCube visibles.
 
-![Lab I-B: Modelo final](S09_LabIB_Modelo_Apellido_Nombre.png)
+![Lab I-B: Modelo final](S09_LabIB_Modelo_Corrales_Alejandro.png)
 
 ### D2 · Vistas de verificación
 
 Montaje de Front, Top y Right del modelo, presentado de manera clara para comparar con el plano base.
 
-![Lab I-B: Vistas](S09_LabIB_Vistas_Apellido_Nombre.png)
+![Lab I-B: Vistas](S09_LabIB_Vistas_Corrales_Manuel.png)
 
 ### D3 · Boceto y restricciones
 
