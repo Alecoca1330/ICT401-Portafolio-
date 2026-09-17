@@ -23,9 +23,9 @@ Esta ficha forma parte de la evidencia evaluable del Laboratorio integrador I-B 
 
 ### A1 · Dimensiones generales
 
-- X total: [Respuesta]
-- Y total: [Respuesta]
-- Z total: [Respuesta]
+- X total: [90mm]
+- Y total: [60mm]
+- Z total: [42mm]
 
 ### A2 · Características geométricas identificadas
 
