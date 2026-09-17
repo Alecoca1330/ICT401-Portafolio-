@@ -2,12 +2,12 @@
 
 **Reconstrucción 3D a partir de un plano o conjunto de vistas — 10 %**
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
-- Fecha: [Respuesta]
-- Nombre del archivo de Fusion: `ICT401_S09_LabIB_Apellido_Nombre`
-- Carpeta/proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Commit de entrega: [Respuesta]
+- Estudiante: [Alejandro Corrales]
+- Grupo: [60]
+- Fecha: [17/09/2026]
+- Nombre del archivo de Fusion: `ICT401_S09_LabIB_Corrales_Alejandro`
+- Carpeta/proyecto de Fusion Cloud con acceso docente: []
+- Commit de entrega: [S09_Lab_IB_Evidencias_Corrales_Alejandro]
 
 ## Instrucciones de uso de esta ficha
 
