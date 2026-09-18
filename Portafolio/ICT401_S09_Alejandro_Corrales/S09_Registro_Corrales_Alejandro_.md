@@ -2,10 +2,10 @@
 
 14 al 19 de septiembre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [Alejandro Corrales]
+- Grupo: [60]
 - Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Copias personales: `ICT401_S09_P1_Apellido_Nombre`, `ICT401_S09_P2_Apellido_Nombre`, `ICT401_S09_P3_Apellido_Nombre`.
+- Copias personales: `ICT401_S09_P1_Corrales_Alejandro`, `ICT401_S09_P2_Corrales_Alejandro`, `ICT401_S09_P3_Corrales_Alejandro`.
 
 ## Instrucciones
 
