@@ -5,7 +5,7 @@
 - Estudiante: [Respuesta]
 - Grupo: [Respuesta]
 - Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Modelos utilizados: `ICT401_S09_P1_Apellido_Nombre`, `ICT401_S09_P2_Apellido_Nombre`, `ICT401_S09_P3_Apellido_Nombre` u otros equivalentes.
+- Modelos utilizados: `ICT401_S09_P1_Corrales_Alejandro`, `ICT401_S09_P2_Corrales_Alejandro`, `ICT401_S09_P3_Corrales_Alejandro` u otros equivalentes.
 
 ## Instrucciones
 
@@ -21,44 +21,43 @@ X = ancho, Y = profundidad, Z = altura. Trabaje en milímetros. Cuando compare v
 
 ### P1.1 · Modelo utilizado
 
-- Nombre del diseño en Fusion: [Respuesta]
-- Pieza de referencia (semana de origen): [Respuesta]
+- Nombre del diseño en Fusion: [ICT401_S09_P1_Corrales_Alejandro]
+- Pieza de referencia (semana de origen): [Semana 9]
 
 ### P1.2 · Características principales del modelo
 
 | Característica | Descripción | Vista(s) que la comunican |
 |---|---|---|
-| 1 | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] |
+| 1 | La pieza presenta una base rectangular. | Front, Top y Right |
+| 2 | en la parte vertical parte vertical que sale de la base. | Front y Right |
+| 3 | Al verla de frente se puede observar su forma de L. | Front |
+| 4 | Desde arriba se puede ver la profundidad y dónde está ubicada la parte vertical. | Top y Right |
 
 ### P1.3 · Vistas seleccionadas y justificación
 
 | Vista | ¿Es necesaria? | ¿Por qué? | ¿Qué información aporta? |
 |---|---|---|---|
-| Front | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
-| Otra: [nombre] | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front | Sí | es porque permite ver la forma principal de la pieza. | Muestra el ancho, la altura y la forma en L. |
+| Top | Sí | Porque permite ver cómo están ordenadas las partes desde arriba. | Muestra la profundidad y la posición de la pared. |
+| Right | Sí | Porque ayuda a comprobar las medidas de la pieza de lado. | Muestra la profundidad y las diferentes alturas. |
+| Otra: Isométrica | No | Porque las vistas principales ya muestran lo necesario. | Sirve como apoyo para entender mejor la forma completa de la pieza. |
 
-### P1.4 · ¿Algual vista resultó redundante? ¿Cuál y por qué?
+### P1.4 · ¿Alguna vista resultó redundante? ¿Cuál y por qué?
 
-[Respuesta]
+Consideré que la vista isométrica no era indispensable, ya que las vistas Front, Top y Right muestran la información necesaria de la pieza. Aun así, ayuda a tener una mejor idea de cómo se ve el modelo completo.
 
 ### P1.5 · Método utilizado para generar las vistas en Fusion
 
-[Respuesta]
-
+Primero abrí la pieza que había realizado en la Semana 9. Luego coloqué el modelo en las vistas Front, Top y Right usando el ViewCube de Fusion. Al final revisé cada vista para asegurarme de que coincidiera con la forma del modelo.
 ### Evidencias P1
 
 Captura de las vistas ortogonales generadas desde el modelo.
 
-![P1: Vistas](S10_P1_Vistas_Apellido_Nombre.png)
+![P1: Vistas](S10_P1_Vistas_Corrales_Alejandro.png)
 
 Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
-![P1: Modelo](S10_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S10_P1_Modelo_Corrales_Alejandro.png)
 
 ---
 
@@ -66,32 +65,33 @@ Modelo 3D en orientación isométrica con nombre y ViewCube visibles.
 
 ### P2.1 · Configuración del Drawing
 
-- Formato seleccionado: [Respuesta]
-- Orientación: [Respuesta]
-- Escala: [Respuesta]
-- Justificación de cada elección: [Respuesta]
+- Formato seleccionado: A4.
+- Orientación: Horizontal.
+- Escala: 1:1.
+- Justificación de cada elección: Usé el formato A4 en horizontal porque había suficiente espacio para acomodar las tres vistas sin que quedaran muy juntas. Dejé la escala en 1:1 porque el tamaño de la pieza permite verla bien y colocar las medidas de forma clara.
 
 ### P2.2 · Disposición de vistas
 
 | Vista | Posición en el Drawing | Distancia a la vista adyacente | ¿Alineada correctamente? |
 |---|---|---|---|
-| Front (base) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] | [Respuesta] |
+| Front (base) | Parte superior izquierda | Dejé suficiente espacio entre las vistas. | Sí |
+| Top | Debajo de la vista Front | Dejé espacio para colocar las cotas. | Sí |
+| Right | A la derecha de la vista Front | Dejé una separación para que las vistas no quedaran juntas. | Sí |
+
 
 ### P2.3 · ¿Qué problemas de alineación o disposición detectó? ¿Cómo los resolvió?
 
-[Respuesta]
+Tuve que cambiar un poco la posición de las vistas para que quedaran mejor acomodadas. Las separé y revisé que mantuvieran la posición correcta entre Front, Top y Right.
 
 ### P2.4 · ¿La escala permite legibilidad de todas las vistas? Justifique.
 
-[Respuesta]
+Sí, con la escala 1:1 se puede observar la pieza con claridad y distinguir bien sus medidas. También permite que las vistas tengan suficiente espacio entre ellas dentro de la hoja.
 
 ### Evidencias P2
 
 Captura del Drawing con las tres vistas insertadas y alineadas.
 
-![P2: Plano](S10_P2_Plano_Apellido_Nombre.png)
+![P2: Plano](S10_P2_Plano_Corrales_Alejandro.png)
 
 ---
 
