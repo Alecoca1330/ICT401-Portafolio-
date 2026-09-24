@@ -100,32 +100,31 @@ Captura del Drawing con las tres vistas insertadas y alineadas.
 ### P3.1 · Dimensiones generales aplicadas
 
 | Dimensión | Valor | Vista donde se colocó | Justificación |
-|---|---|---|---|
-| Ancho total (X) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Profundidad total (Y) | [Respuesta] | [Respuesta] | [Respuesta] |
-| Altura total (Z) | [Respuesta] | [Respuesta] | [Respuesta] |
+|---|---:|---|---|
+| Ancho total (X) | 72 mm | Front | La coloqué aquí porque se puede apreciar todo el ancho de la pieza. |
+| Profundidad total (Y) | 36 mm | Top | La puse en esta vista porque muestra mejor la profundidad completa. |
+| Altura total (Z) | 36 mm | Front | La coloqué en Front porque ahí se distingue mejor la altura de la pieza. |
 
 ### P3.2 · Dimensiones parciales y funcionales
 
 | Característica | Dimensión | Valor | Vista | ¿Repetida en otra vista? |
-|---|---|---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] | [Respuesta] |
+|---|---|---:|---|---|
+| Parte elevada | Ancho | 28 mm | Front | No |
+| Base | Altura | 12 mm | Front | No |
+| Agujero | Diámetro | Ø12 mm | Top | No |
+| Agujero | Ubicación del centro | (14, 18) mm | Top | No |
 
 ### P3.3 · ¿Eliminó alguna cota por redundante? ¿Cuál?
 
-[Respuesta]
+Sí, algunas medidas se podían mostrar en más de una vista, pero decidí colocarlas una sola vez para que el plano no tuviera información repetida.
 
 ### P3.4 · ¿Alguna dimensión quedó dentro del contorno de la vista? ¿Qué hizo al respecto?
 
-[Respuesta]
+Al colocar las medidas, algunas quedaban muy pegadas al dibujo. Las moví un poco hacia afuera para que quedaran más ordenadas y fueran fáciles de leer.
 
 ### P3.5 · ¿Qué criterio de organización utilizó para disponer las cotas?
 
-[Respuesta]
-
+Fui acomodando las cotas según la parte de la pieza que correspondía. Dejé las medidas generales más alejadas y las demás más cerca de cada detalle, tratando de que no se cruzaran ni quedaran amontonadas.
 ### Evidencias P3
 
 Captura del Drawing con las cotas aplicadas.
