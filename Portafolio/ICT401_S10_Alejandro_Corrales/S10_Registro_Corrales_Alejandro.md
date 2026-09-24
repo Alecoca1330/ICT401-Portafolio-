@@ -129,11 +129,11 @@ Fui acomodando las cotas según la parte de la pieza que correspondía. Dejé la
 
 Captura del Drawing con las cotas aplicadas.
 
-![P3: Cotización](S10_P3_Cotizacion_Apellido_Nombre.png)
+![P3: Cotización](S10_P3_Cotizacion_Apellido_Alejandro_Corrales.png)
 
 Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
-![P3: Detalle](S10_P3_Detalle_Apellido_Nombre.png)
+![P3: Detalle](S10_P3_Detalle_Corrales_Alejandro.png)
 
 ---
 
@@ -141,79 +141,81 @@ Detalle de una zona del plano donde se aprecie la organización de las cotas.
 
 ### P4.1 · Pieza documentada
 
-- Nombre del diseño: [Respuesta]
-- Pieza de referencia: [Respuesta]
+- Nombre del diseño: `ICT401_S09_P3_Apellido_Nombre`
+- Pieza de referencia: P3 de la Semana 9.
 
 ### P4.2 · Vistas generadas
 
 | Vista | Información que comunica | Cotas asignadas |
 |---|---|---|
-| Front | [Respuesta] | [Respuesta] |
-| Top | [Respuesta] | [Respuesta] |
-| Right | [Respuesta] | [Respuesta] |
+| Front | desde este punto nos permite ver el ancho y las diferentes alturas de la pieza. | Ancho total, altura total y medidas del resalte. |
+| Top | en esta parte vemos la forma de la pieza y la ubicación del agujero y la ranura. | Profundidad, Ø12, posición del agujero y medidas de la ranura. |
+| Right | Permite observar la pieza de lado y revisar sus alturas. | Profundidad y alturas necesarias. |
 
 ### P4.3 · Resumen de cotas aplicadas
 
 | Tipo de dimensión | Cantidad | Ejemplo |
-|---|---|---|
-| Generales | [Respuesta] | [Respuesta] |
-| Parciales | [Respuesta] | [Respuesta] |
-| Funcionales | [Respuesta] | [Respuesta] |
+|---|---:|---|
+| Generales | 3 | pueden ser las medidas completas de la pieza: 80 mm, 50 mm y 30 mm. |
+| Parciales | Varias | un ejemplo seria medidas que indican el tamaño y la ubicación del resalte y la ranura. |
+| Funcionales | 3 | El diámetro de Ø12 mm y las medidas que ubican el centro del agujero. |
 
 ### P4.4 · ¿El plano contiene información suficiente para fabricar la pieza? ¿Falta algo?
 
-[Respuesta]
+Sí, desde el primer punto de vsta y analizando todo, el plano tiene las vistas y medidas necesarias para poder entender y fabricar la pieza. Se pueden ver las medidas generales y también las del agujero, la ranura y la parte elevada.
 
 ### P4.5 · Errores encontrados y correcciones realizadas
 
 | Error detectado | Corrección aplicada | Vista afectada |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| Algunas medidas quedaron muy juntas. | Las separé un poco para que se vieran mejor. | Top |
+| Las vistas no estaban bien acomodadas en la hoja. | Moví las vistas para aprovechar mejor el espacio. | Front, Top y Right |
 
 ### Evidencias P4
 
 Drawing completo con vistas y cotas.
 
-![P4: Plano completo](S10_P4_PlanoCompleto_Apellido_Nombre.png)
+![P4: Plano completo](S10_P4_PlanoCompleto_Corrales_Alejandro.png)
 
 Comparación del Drawing con el modelo 3D.
 
-![P4: Verificación](S10_P4_Verificacion_Apellido_Nombre.png)
+![P4: Verificación](S10_P4_Verificacion_Corrales_Alejandro.png)
 
 ---
 
 ## Reflexión final
 
+## Reflexión final
+
 La diferencia principal entre documentar una pieza en Semana 9 (reconstrucción desde plano) y documentarla en Semana 10 (generación de vistas desde modelo) es:
 
-[Respuesta]
+En la Semana 9 trabajé con las vistas y medidas de un plano para hacer los modelos en 3D. En la Semana 10 utilicé esos modelos para hacer los planos en Drawing, sacar las vistas y colocar las cotas asi mismo aprender que con pocas cotas tenemos toda la informaciòn para crear un modelo.
 
 Los criterios que utilicé para seleccionar las vistas necesarias fueron:
 
-[Respuesta]
+Elegí las vistas donde se pudiera observar mejor la forma y las medidas de cada pieza. Utilicé principalmente Front, Top y Right.
 
 Los principios de acotación normalizada que más influyeron en la claridad de mi plano fueron:
 
-[Respuesta]
+Colocar las cotas de forma ordenada, evitar repetir la misma medida y dejar suficiente espacio para que fueran fáciles de leer.
 
 Si tuviera que agregar una vista adicional a una de mis piezas, sería:
 
-[Respuesta]
+Agregaría una vista isométrica porque permite observar la forma completa de la pieza y ayuda a entender mejor el modelo.
 
 ## Checklist
 
-- [ ] Seleccioné las vistas necesarias y justifiqué cada una.
-- [ ] Generé las vistas ortogonales correctamente alineadas.
-- [ ] Configuré formato, orientación y escala de manera coherente.
-- [ ] Apliqué dimensiones generales, parciales y funcionales.
-- [ ] Evité cotas repetidas, ambiguas o innecesarias.
-- [ ] Organice las cotas fuera del contorno de las vistas.
-- [ ] El plano contiene información suficiente para fabricar la pieza.
-- [ ] Documenté errores y correcciones sin borrar decisiones iniciales.
-- [ ] Las evidencias se visualizan correctamente en GitHub.
-- [ ] Los Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Completé la reflexión final.
+- [x ] Seleccioné las vistas necesarias y justifiqué cada una.
+- [x ] Generé las vistas ortogonales correctamente alineadas.
+- [x ] Configuré formato, orientación y escala de manera coherente.
+- [ x] Apliqué dimensiones generales, parciales y funcionales.
+- [ x] Evité cotas repetidas, ambiguas o innecesarias.
+- [ x] Organice las cotas fuera del contorno de las vistas.
+- [ x] El plano contiene información suficiente para fabricar la pieza.
+- [ x] Documenté errores y correcciones sin borrar decisiones iniciales.
+- [ x] Las evidencias se visualizan correctamente en GitHub.
+- [x ] Los Drawing están disponibles en Fusion Cloud con acceso docente.
+- [ x] Completé la reflexión final.
 
 ## Cierre del Portafolio Técnico 2
 
@@ -221,11 +223,11 @@ La revisión del portafolio abarca las **semanas 6 a 10**. El plazo para complet
 
 Antes del cierre verifique:
 
-- [ ] Las fichas de las semanas 6--10 están completas en `Portafolio/semanaXX/`.
-- [ ] Las imágenes y enlaces se visualizan correctamente desde GitHub.
-- [ ] Las correcciones están documentadas sin borrar respuestas iniciales.
-- [ ] Los modelos están disponibles en Fusion Cloud con acceso docente.
-- [ ] Los últimos cambios están publicados en GitHub.
+- [ x] Las fichas de las semanas 6--10 están completas en `Portafolio/semanaXX/`.
+- [ x] Las imágenes y enlaces se visualizan correctamente desde GitHub.
+- [ x] Las correcciones están documentadas sin borrar respuestas iniciales.
+- [x ] Los modelos están disponibles en Fusion Cloud con acceso docente.
+- [x ] Los últimos cambios están publicados en GitHub.
 
 Commit sugerido: `S10 ejercicios Fusion Apellido Nombre`.
 
