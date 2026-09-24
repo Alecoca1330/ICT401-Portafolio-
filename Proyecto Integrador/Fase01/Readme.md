@@ -5,7 +5,7 @@
 - Francella Madrigal
 
 ## Resumen
-Este proyecto consiste en el diseño de un sistema sencillo para verificar diferentes diámetros de tornillos utilizados en procesos de producción automotriz. La propuesta busca facilitar la identificación rápida de tornillos mediante un calibrador con orificios de diferentes medidas. Durante la Fase 1 se plantearon y compararon dos alternativas de diseño, tomando en cuenta aspectos como facilidad de uso, modelado y fabricación. A partir de esta comparación se seleccionó la alternativa que incluye un calibrador con mango y un soporte para su almacenamiento. El diseño será desarrollado posteriormente de forma paramétrica en Autodesk Fusion.
+Este proyecto consistira en diseñar una herramienta que ayude a verificar de forma rápida el diámetro de diferentes tornillos utilizados en procesos de producción automotriz de acuerdos a las leyes de fabricaciòn. La idea es crear un calibrador con varios orificios de diferentes medidas, donde se pueda introducir el tornillo para identificar su diámetro de una manera sencilla. Para el proyecto se realizaron dos alternativas y se compararon para escoger la que fuera más cómoda y funcional. La opción seleccionada cuenta con un mango para facilitar su uso y un soporte para poder guardarla cuando no se esté utilizando y ademas de un agujero al final de la herramienta para usarla de llavero. Las piezas se diseñarán en Autodesk Fusion y se plantea la impresión 3D como una posible forma de fabricarlas.
 
 ## Anexos
 - [Alternativa A](croquis/ICT401_PROY_F01_AlternativaA.PNG)
