@@ -2,11 +2,11 @@
 
 28 de septiembre al 3 de octubre de 2026.
 
-- Estudiante: [Respuesta]
-- Grupo: [Respuesta]
+- Estudiante: [Manuel Corrales Casanova]
+- Grupo: [60]
 - Carpeta o proyecto de Fusion Cloud con acceso docente: [Respuesta]
-- Drawing o modelo de referencia de Semana 10: [Respuesta]
-- Modelo utilizado: [Nombre del diseño]
+- Drawing o modelo de referencia de Semana 10: [P3 de la semana 10]
+- Modelo utilizado: [P3]
 
 ## Instrucciones
 
@@ -38,34 +38,33 @@ Trabaje sobre un modelo o plano desarrollado en Semana 10. Use milímetros, orie
 
 ### P1.1 · Modelo utilizado
 
-- Nombre del diseño en Fusion: [Respuesta]
-- Pieza de referencia y semana de origen: [Respuesta]
-- Características interiores observadas: [Respuesta]
+- Nombre del diseño en Fusion: `S09_P3_Modelo_Corrales_Alejandro`
+- Pieza de referencia y semana de origen: P3 realizada en la Semana 9 y utilizada nuevamente en la Semana 10.
+- Características interiores observadas: Un agujero circular y una ranura rectangular.
 
 ### P1.2 · Análisis de vistas
 
 | Característica | Vista donde aparece | ¿Se comunica claramente? | Problema detectado |
 |---|---|---|---|
-| 1 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 2 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 3 | [Respuesta] | [Respuesta] | [Respuesta] |
-| 4 | [Respuesta] | [Respuesta] | [Respuesta] |
-
+| Agujero circular | Top | Sí | Se observa el agujero, pero no se logra ver cómo es por dentro. |
+| Agujero circular | Front | No | Desde esta vista el agujero no se puede observar directamente. |
+| Ranura rectangular | Top | Sí | Se logra ver bien su forma y dónde está ubicada. |
+| Parte elevada | Front y Right | Sí | Se puede distinguir fácilmente la diferencia de altura. |
 ### P1.3 · Comparación de alternativas
+
 
 | Alternativa | Ventaja | Limitación |
 |---|---|---|
-| Vista ordinaria | [Respuesta] | [Respuesta] |
-| Vista con líneas ocultas | [Respuesta] | [Respuesta] |
-| Vista seccionada | [Respuesta] | [Respuesta] |
+| Vista ordinaria | Muestra de manera sencilla la parte exterior de la pieza. | Hay partes internas que no se alcanzan a observar. |
+| Vista con líneas ocultas | Permite identificar elementos que están escondidos. | Las líneas pueden hacer que la vista sea un poco más confusa. |
+| Vista seccionada | Deja ver mejor el agujero y cómo es la pieza internamente. | La información depende de la zona por donde se realice el corte. |
 
 ### P1.4 · Decisión de representación
 
-- Tipo de representación elegido: [Respuesta]
-- Vista desde la que se realizará: [Respuesta]
-- Posición aproximada del plano de corte: [Respuesta]
-- Justificación técnica: [Respuesta]
-
+- Tipo de representación elegido: Sección completa.
+- Vista desde la que se realizará: Front.
+- Posición aproximada del plano de corte: Por el centro del agujero circular.
+- Justificación técnica: Elegí esta sección porque permite ver el interior del agujero de una forma más clara y evita depender solamente de las líneas ocultas.
 ### Evidencias P1
 
 **Qué debe contener cada imagen:**
@@ -77,7 +76,7 @@ Una captura aislada del modelo no demuestra la comparación solicitada.
 
 P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la documentación técnica.
 
-![P1: Modelo](S11_P1_Modelo_Apellido_Nombre.png)
+![P1: Modelo](S11_P1_Modelo_Corrales_Alejandro.png)
 
 ![P1: Comparación](S11_P1_Comparacion_Apellido_Nombre.png)
 
@@ -101,33 +100,30 @@ P1 no requiere crear un `Drawing`; la decisión se registra antes de pasar a la 
 
 | Elemento | Decisión aplicada |
 |---|---|
-| Vista donde se indica el corte | [Respuesta] |
-| Posición del plano de corte | [Respuesta] |
-| Dirección de observación | [Respuesta] |
-| Identificación | [Respuesta] |
-| Tipo de corte o sección | [Respuesta] |
+| Vista donde se indica el corte | Top |
+| Posición del plano de corte | Pasa por el centro del agujero circular. |
+| Dirección de observación | En la dirección indicada por las flechas del croquis. |
+| Identificación | A–A |
+| Tipo de corte o sección | Corte completo. |
 
 ### P2.2 · Rayado
 
-- ¿Qué superficies quedan cortadas?: [Respuesta]
-- ¿Qué superficies no deben rayarse?: [Respuesta]
-- ¿Cómo diferenció zonas o componentes adyacentes?: [Respuesta]
-- ¿Qué separación utilizó entre las líneas de rayado?: [Respuesta]
-- ¿Cómo evitó que el rayado invadiera textos o cotas?: [Respuesta]
+- ¿Qué superficies quedan cortadas?: Las zonas sólidas que atraviesa la línea de corte.
+- ¿Qué superficies no deben rayarse?: El agujero y cualquier espacio vacío que quede dentro de la pieza.
+- ¿Cómo diferenció zonas o componentes adyacentes?: Como el modelo es una sola pieza, usé el mismo tipo de rayado en las partes cortadas.
+- ¿Qué separación utilizó entre las líneas de rayado?: Dejé las líneas separadas de forma pareja para que se entendieran bien.
+- ¿Cómo evitó que el rayado invadiera textos o cotas?: Traté de dejar libres las zonas donde estaban las letras y las medidas para que todo se pudiera leer con claridad.
 
 ### P2.3 · Diferencia conceptual
 
-Explique con sus palabras la diferencia entre un corte y una sección.
-
-[Respuesta]
+El corte sirve para mostrar cómo queda la pieza al atravesarla con un plano y así poder observar lo que tiene por dentro. La sección muestra únicamente la forma que queda justo en la parte donde pasó ese plano.
 
 ### P2.4 · Correcciones
 
 | Problema detectado | Corrección aplicada | Motivo de la corrección |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
-
+| El corte no estaba pasando por la mitad del agujero. | Moví la línea hasta que quedara centrada. | Para que se pudiera ver mejor el interior del agujero. |
+| Las flechas no se entendían bien. | Las acomodé y las orienté mejor. | Para dejar más clara la dirección desde donde se observa la sección. |
 ### Evidencias P2
 
 **Qué debe contener cada imagen:**
@@ -139,9 +135,9 @@ Un dibujo sin flechas, letras o rayado no demuestra el procedimiento completo.
 
 Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` se trabaja en P3.
 
-![P2: Croquis del corte](S11_P2_CroquisCorte_Apellido_Nombre.png)
+![P2: Croquis del corte](S11_P2_CroquisCorte_Corrales_Alejandro.png)
 
-![P2: Sección identificada](S11_P2_Seccion_Apellido_Nombre.png)
+![P2: Sección identificada](S11_P2_Seccion_Corrales_Alejandro.png)
 
 ## P3 — Corte o sección en Fusion
 
@@ -162,38 +158,38 @@ Estas evidencias no tienen que ser capturas del espacio `Drawing`; el `Drawing` 
 
 ### P3.1 · Configuración
 
-- Drawing utilizado: [Respuesta]
+- Drawing utilizado: Plano de la P3 que se trabajó en la Semana 10.
 - Espacio de trabajo utilizado: `Drawing`
 - Herramienta utilizada: `Section View`
-- Vista de origen: [Respuesta]
-- Tipo de corte: [Respuesta]
-- Escala: [Respuesta]
-- Identificación: [Respuesta]
-- Dirección de observación: [Respuesta]
-
+- Vista de origen: Top
+- Tipo de corte: Sección completa.
+- Escala: 1:1
+- Identificación: A–A
+- Dirección de observación: La que indican las flechas colocadas en la línea de corte.
+  
 ### P3.2 · Verificación con el modelo
 
 | Elemento | ¿Coincide con el modelo? | Evidencia o corrección |
 |---|---|---|
-| Cavidad o agujero | [Respuesta] | [Respuesta] |
-| Ranura o escalón | [Respuesta] | [Respuesta] |
-| Contorno exterior | [Respuesta] | [Respuesta] |
-| Superficies rayadas | [Respuesta] | [Respuesta] |
-| Líneas visibles | [Respuesta] | [Respuesta] |
+| Cavidad o agujero | Sí | En la sección se logra ver el agujero por dentro. |
+| Ranura o escalón | Sí | La forma de la parte escalonada se mantiene igual. |
+| Contorno exterior | Sí | La forma exterior coincide con las demás vistas. |
+| Superficies rayadas | Sí | El rayado aparece solo en las partes que fueron cortadas. |
+| Líneas visibles | Sí | Se dejaron las líneas necesarias para entender bien la pieza. |
 
 ### P3.3 · Líneas ocultas
 
-- ¿Qué líneas ocultas dejaron de ser necesarias?: [Respuesta]
-- ¿Qué líneas visibles debieron conservarse?: [Respuesta]
-- ¿Detectó alguna contradicción entre vistas?: [Respuesta]
-- ¿Cómo verificó la dirección de observación?: [Respuesta]
+- ¿Qué líneas ocultas dejaron de ser necesarias?: Las que mostraban el agujero por dentro, porque con la sección ya se puede ver directamente.
+- ¿Qué líneas visibles debieron conservarse?: Las del borde de la pieza y las que muestran los cambios de altura.
+- ¿Detectó alguna contradicción entre vistas?: No, todas las vistas se relacionan bien con la sección.
+- ¿Cómo verificó la dirección de observación?: Revisé las flechas de la línea de corte y comparé el resultado con el modelo en Design.
 
 ### P3.4 · Errores y correcciones
 
 | Error detectado | Evidencia que lo reveló | Corrección aplicada |
 |---|---|---|
-| [Respuesta] | [Respuesta] | [Respuesta] |
-| [Respuesta] | [Respuesta] | [Respuesta] |
+| La línea de corte no estaba exactamente centrada. | Se notaba al compararla con el agujero en la vista Top. | Moví la línea hasta que pasara por el centro del agujero. |
+| La sección quedó muy cerca de las otras vistas. | Se veía poco espacio en el Drawing. | Moví la vista A–A para que quedara más separada y ordenada. |
 
 ### Evidencias P3
 
