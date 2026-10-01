@@ -224,38 +224,33 @@ La segunda imagen debe permitir comparar modelo y plano, no solo mostrar una pan
 
 ### P4.1 · Detalle ampliado
 
-- Zona seleccionada: [Respuesta]
-- Motivo de la ampliación: [Respuesta]
-- Letra asignada: [Respuesta]
-- Escala del detalle: [Respuesta]
-- Vista de origen: [Respuesta]
+- Zona seleccionada: Parte donde está el agujero circular.
+- Motivo de la ampliación: La amplié para poder ver mejor esa zona y distinguir con más claridad el agujero.
+- Letra asignada: C
+- Escala del detalle: 2:1
+- Vista de origen: Top
 - Herramienta utilizada en `Drawing`: `Detail View`
 - Espacio de trabajo utilizado: `Drawing`
 
 ### P4.2 · Tolerancia introductoria
 
-- Dimensión nominal: [Respuesta]
-- Tolerancia aplicada: [Respuesta]
-- Límite superior: [Respuesta]
-- Límite inferior: [Respuesta]
-- Motivo funcional o indicación del enunciado: [Respuesta]
-
-**Criterio de cálculo:** en la fórmula `D_min = D_N - T_inf`, `T_inf` se registra como magnitud positiva de la desviación inferior. Si la desviación se escribe con signo, por ejemplo `-0,10 mm`, el límite se calcula como `D_N + (-0,10 mm)`.
+- Dimensión nominal: Ø12 mm
+- Tolerancia aplicada: No se agregó.
+- Límite superior: No aplica.
+- Límite inferior: No aplica.
+- Motivo funcional o indicación del enunciado: No se indicó ninguna tolerancia específica para esa medida, por eso se dejó solamente el valor nominal.
 
 ### P4.3 · Interpretación
 
 Interprete el ejemplo didáctico `20 ± 0,1 mm`.
 
-- Valor nominal: [Respuesta]
-- Valor máximo permitido: [Respuesta]
-- Valor mínimo permitido: [Respuesta]
+- Valor nominal: 20 mm
+- Valor máximo permitido: 20,1 mm
+- Valor mínimo permitido: 19,9 mm
 
 ### P4.4 · Decisión técnica
 
-¿La tolerancia era necesaria para este plano? Justifique sin inventar requisitos de fabricación.
-
-[Respuesta]
-
+No agregué una tolerancia porque en el ejercicio no se indicaba que fuera necesaria para esa medida. Por eso dejé la dimensión tal como estaba en el plano.
 ### Evidencias P4
 
 **Qué debe contener cada imagen:**
@@ -266,9 +261,9 @@ Interprete el ejemplo didáctico `20 ± 0,1 mm`.
 
 No basta con escribir una tolerancia sin justificarla.
 
-![P4: Zona de detalle](S11_P4_ZonaDetalle_Apellido_Nombre.png)
+![P4: Zona de detalle](S11_P4_ZonaDetalle_Corrales_Alejandro.png)
 
-![P4: Detalle ampliado](S11_P4_Detalle_Apellido_Nombre.png)
+![P4: Detalle ampliado](S11_P4_Detalle_Corrales_Alejandro.png)
 
 ![P4: Tolerancia](S11_P4_Tolerancia_Apellido_Nombre.png)
 
@@ -288,46 +283,47 @@ No basta con escribir una tolerancia sin justificarla.
 6. Prepare `S11_P5_Verificacion_Apellido_Nombre.png` como una sola imagen con un recorte del plano final y otro del modelo verificado, etiquetados `Drawing` y `Design`.
 7. Complete el checklist y registre qué cambió, qué evidencia motivó el cambio y cómo verificó el resultado.
 
+## P5 — Plano final y verificación
+
 ### P5.1 · Lista de comprobación
 
-- [ ] El corte atraviesa la característica relevante.
-- [ ] La dirección de observación es correcta.
-- [ ] Las letras y flechas son coherentes.
-- [ ] El rayado representa únicamente superficies cortadas.
-- [ ] Las áreas adyacentes se diferencian.
-- [ ] Se eliminaron líneas ocultas innecesarias.
-- [ ] Las cotas siguen siendo legibles.
-- [ ] El detalle tiene letra y escala.
-- [ ] La tolerancia está justificada o se documentó por qué no se agregó.
-- [ ] El plano coincide con el modelo 3D.
-- [ ] No hay superposiciones ni información redundante.
+- [x] El corte atraviesa la característica relevante.
+- [x] La dirección de observación es correcta.
+- [x] Las letras y flechas son coherentes.
+- [x] El rayado representa únicamente superficies cortadas.
+- [x] Las áreas adyacentes se diferencian.
+- [x] Se eliminaron líneas ocultas innecesarias.
+- [x] Las cotas siguen siendo legibles.
+- [x] El detalle tiene letra y escala.
+- [x] La tolerancia está justificada o se documentó por qué no se agregó.
+- [x] El plano coincide con el modelo 3D.
+- [x] No hay superposiciones ni información redundante.
 
 ### P5.2 · Revisión por pares
 
 | Criterio revisado | Observación recibida | Corrección realizada |
 |---|---|---|
-| Corte o sección | [Respuesta] | [Respuesta] |
-| Rayado | [Respuesta] | [Respuesta] |
-| Detalle | [Respuesta] | [Respuesta] |
-| Tolerancia | [Respuesta] | [Respuesta] |
-| Legibilidad | [Respuesta] | [Respuesta] |
+| Corte o sección | [Completar con la observación recibida] | [Completar si fue necesario corregir algo] |
+| Rayado | [Completar con la observación recibida] | [Completar si fue necesario corregir algo] |
+| Detalle | [Completar con la observación recibida] | [Completar si fue necesario corregir algo] |
+| Tolerancia | [Completar con la observación recibida] | [Completar si fue necesario corregir algo] |
+| Legibilidad | [Completar con la observación recibida] | [Completar si fue necesario corregir algo] |
 
 ### P5.3 · Preparación para la Prueba Corta 2
 
-- Una situación en la que conviene una sección: [Respuesta]
-- Diferencia entre corte y sección: [Respuesta]
-- Función del rayado: [Respuesta]
-- Función de las flechas del plano de corte: [Respuesta]
-- Significado de una tolerancia bilateral: [Respuesta]
+- Una situación en la que conviene una sección: Cuando una parte interna de la pieza no se puede observar claramente en una vista normal.
+- Diferencia entre corte y sección: El corte permite observar el interior de la pieza después de imaginar que una parte fue retirada, mientras que la sección muestra la forma que queda justo donde pasa el plano de corte.
+- Función del rayado: Indicar cuáles superficies sólidas fueron atravesadas por el plano de corte.
+- Función de las flechas del plano de corte: Mostrar la dirección desde la cual se debe observar la sección.
+- Significado de una tolerancia bilateral: Indica cuánto puede variar una medida por encima o por debajo de su valor nominal.
 
 ### Evidencias P5
 
-**Qué debe contener cada imagen:**
+![P5: Plano final](S11_P5_PlanoFinal_Corrales_Alejandro.png)
 
-- `S11_P5_PlanoFinal_Apellido_Nombre.png`: captura final de Fusion en el espacio `Drawing`, con vistas, corte o sección, rayado, cotas, detalle y tolerancia cuando corresponda, sin superposiciones importantes.
-- `S11_P5_Verificacion_Apellido_Nombre.png`: comparación final entre el plano en `Drawing` y el modelo 3D en `Design`, con una orientación que permita comprobar la geometría representada.
+![P5: Verificación final](S11_P5_Verificacion_Corrales_Alejandro.png)
 
-Estas imágenes deben respaldar el checklist y las correcciones registradas en la ficha.
+
 
 ![P5: Plano final](S11_P5_PlanoFinal_Apellido_Nombre.png)
 
@@ -335,39 +331,26 @@ Estas imágenes deben respaldar el checklist y las correcciones registradas en l
 
 ## Reflexión final
 
+
 ### 1. ¿Por qué fue necesario utilizar un corte o una sección?
 
-[Respuesta]
+Fue necesario porque algunas partes internas de la pieza no se podían observar bien en las vistas normales. Con la sección se pudo ver mejor el agujero por dentro y entender con más claridad esa parte del modelo.
 
 ### 2. ¿Qué diferencia existe entre corte y sección?
 
-[Respuesta]
+El corte permite ver el interior de la pieza como si una parte se hubiera retirado. La sección muestra solamente la forma que queda justo donde pasa el plano de corte.
 
 ### 3. ¿Qué característica fue más difícil de representar?
 
-[Respuesta]
+La parte más difícil de representar fue el agujero, porque había que hacer que la línea de corte pasara por el centro para que se mostrara correctamente en la sección.
 
 ### 4. ¿Qué corrección mejoró más la legibilidad del plano?
 
-[Respuesta]
+La corrección que más ayudó fue acomodar mejor la sección y las vistas para que no quedaran tan juntas. Así el plano quedó más ordenado y fácil de leer.
 
 ### 5. ¿Qué aprendí sobre tolerancias introductorias?
 
-[Respuesta]
-
-## Referencia de Fusion
-
-Para los comandos del software consulte la documentación oficial vigente de Autodesk Fusion sobre los espacios `Design` y `Drawing`, `Inspect > Section Analysis`, `Section View`, `Detail View` y edición de dimensiones: <https://help.autodesk.com/view/fusion360/ENU/>.
-
-## Cierre de la ficha
-
-- [ ] Completé las respuestas de P1 a P5.
-- [ ] Incorporé las evidencias con la nomenclatura solicitada.
-- [ ] Las imágenes se visualizan correctamente desde GitHub.
-- [ ] El modelo y el Drawing están disponibles en Fusion Cloud con acceso docente.
-- [ ] Documenté las correcciones sin borrar decisiones iniciales.
-- [ ] Publiqué los últimos cambios en GitHub.
-
+Aprendí que una tolerancia indica cuánto puede variar una medida con respecto a su valor nominal. También entendí que no se debe agregar una tolerancia si no existe una razón para utilizarla.
 Commit sugerido: `S11 ejercicios cortes secciones Apellido Nombre`.
 
 Corrección posterior: `S11 correccion plano seccion Apellido Nombre`.
