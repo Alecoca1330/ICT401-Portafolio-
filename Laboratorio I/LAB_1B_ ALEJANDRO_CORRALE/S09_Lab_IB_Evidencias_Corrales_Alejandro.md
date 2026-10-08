@@ -166,14 +166,14 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 
 | Criterio oficial | Valor maximo | Puntaje obtenido | Observaciones de evaluacion |
 |---|---:|---:|---|
-| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 1.50 | Puntaje parcial: En A1-A5 y C1, revisar la interpretacion de dimensiones, caracteristicas y vistas. Observacion especifica: Falta la evidencia D3 del boceto; el checklist contiene marcas ambiguas y la ficha usa una ruta/nomenclatura no oficial. |
-| Reconstruccion tridimensional coherente | 2.50 | 1.88 | Puntaje parcial: En B1-B3, D1 y D2, revisar la secuencia de operaciones, el modelo y la correspondencia de vistas. Observacion especifica: Falta la evidencia D3 del boceto; el checklist contiene marcas ambiguas y la ficha usa una ruta/nomenclatura no oficial. |
-| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: En B1, D3 y C2, revisar restricciones, cotas y las cinco verificaciones dimensionales. Observacion especifica: Falta la evidencia D3 del boceto; el checklist contiene marcas ambiguas y la ficha usa una ruta/nomenclatura no oficial. |
-| Precision geometrica y correspondencia con el plano | 2.00 | 1.50 | Puntaje parcial: En C1, C2, D2 y D5, revisar la correspondencia geometrica y las mediciones documentadas. Observacion especifica: Falta la evidencia D3 del boceto; el checklist contiene marcas ambiguas y la ficha usa una ruta/nomenclatura no oficial. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: En la identificacion, ruta, nombre del archivo, acceso docente y commit, revisar la organizacion de la entrega. Observacion especifica: Falta la evidencia D3 del boceto; el checklist contiene marcas ambiguas y la ficha usa una ruta/nomenclatura no oficial. |
-| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: En D1-D5 y el checklist, revisar la integridad de las evidencias y el cumplimiento formal del enunciado. Observacion especifica: Falta la evidencia D3 del boceto; el checklist contiene marcas ambiguas y la ficha usa una ruta/nomenclatura no oficial. |
+| Interpretacion correcta del plano o conjunto de vistas | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Reconstruccion tridimensional coherente | 2.50 | 2.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: La imagen enlazada en D3 no existe en el repositorio; por eso no se puede verificar visualmente el boceto y sus restricciones. B1 y C2 si contienen datos. |
+| Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ficha esta en Laboratorio I/LAB_1B_ ALEJANDRO_CORRALE y el campo de acceso docente esta vacio; la ruta no coincide con las rutas oficiales aceptadas. |
+| Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: D3 no tiene imagen disponible y el checklist usa marcas ambiguas como xxx y xx; por eso la entrega formal queda incompleta. |
 
-**Total obtenido: 6.51 / 10,00 %**
+**Total obtenido: 8.13 / 10,00 %**
 
 La ruta `Laboratorio_I/I-B/` se acepta como ruta oficial alternativa junto con `Portafolio/semana09/`. No se inspeccionaron archivos de Fusion.
 
