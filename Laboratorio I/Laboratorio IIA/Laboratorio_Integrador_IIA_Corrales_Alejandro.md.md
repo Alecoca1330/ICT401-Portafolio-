@@ -64,6 +64,6 @@
 
 ![P5: Verificación](S12_P5_VerificacionModelo_Corrales_Alejandro.png)
 
-![P5: Impresión](S12_P5_PrevisualizacionImpresion_Corrales_Alejandro.png)
+![P5: Impresión](S12_P5_PreviewImpresión_Corrales_Alejandro.png)
 
 ![P5: Entrega](S12_P5_Entrega_Corrales_Alejandro.png)
