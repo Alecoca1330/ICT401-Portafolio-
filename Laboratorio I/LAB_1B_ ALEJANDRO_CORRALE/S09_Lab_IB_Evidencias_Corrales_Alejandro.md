@@ -218,31 +218,3 @@ No indicaste en que proyecto o carpeta de Fusion Cloud esta el archivo editable 
 ### Calificacion final
 
 **8.13 / 10,0 %**
-
-## H. Retroalimentacion del evaluador
-
-### Fortalezas
-
-A1-A5, B1-B3, C1-C2, D1-D2 y D5 son verificables.
-
-### Aspectos por corregir
-
-D3 no tiene imagen disponible; el checklist usa marcas ambiguas y la ruta/nomenclatura no es oficial.
-
-### Desglose del puntaje
-
-| Criterio | Puntaje obtenido |
-|---|---:|
-| R1 - Interpretacion correcta del plano o conjunto de vistas | 2.00 |
-| R2 - Reconstruccion tridimensional coherente | 2.50 |
-| R3 - Aplicacion de restricciones y dimensiones | 1.13 |
-| R4 - Precision geometrica y correspondencia con el plano | 2.00 |
-| R5 - Organizacion, nomenclatura y archivo editable | 0 |
-| R6 - Presentacion y cumplimiento del enunciado | 0.50 |
-
-No indicaste en que proyecto o carpeta de Fusion Cloud esta el archivo editable ni declaraste que tiene acceso docente; ademas, la ficha esta fuera de las rutas oficiales.
- No se inspeccionaron archivos de Fusion.
-
-### Calificacion final
-
-**8.13 / 10,0 %**
