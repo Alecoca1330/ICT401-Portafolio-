@@ -209,7 +209,7 @@ D3 no tiene imagen disponible; el checklist usa marcas ambiguas y la ruta/nomenc
 | R2 - Reconstruccion tridimensional coherente | 2.50 |
 | R3 - Aplicacion de restricciones y dimensiones | 1.13 |
 | R4 - Precision geometrica y correspondencia con el plano | 2.00 |
-| R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
+| R5 - Organizacion, nomenclatura y archivo editable | 0 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.50 |
 
 No indicaste en que proyecto o carpeta de Fusion Cloud esta el archivo editable ni declaraste que tiene acceso docente; ademas, la ficha esta fuera de las rutas oficiales.
