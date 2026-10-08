@@ -212,7 +212,7 @@ D3 no tiene imagen disponible; el checklist usa marcas ambiguas y la ruta/nomenc
 | R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.50 |
 
-R5 se califica con 0,00 porque la ficha no respeta una ruta y nomenclatura oficial, o no presenta evidencia verificable. La revisión se basó exclusivamente en esta ficha y sus evidencias enlazadas o insertadas.
+No indicaste en que proyecto o carpeta de Fusion Cloud esta el archivo editable ni declaraste que tiene acceso docente; ademas, la ficha esta fuera de las rutas oficiales.
  No se inspeccionaron archivos de Fusion.
 
 ### Calificacion final
