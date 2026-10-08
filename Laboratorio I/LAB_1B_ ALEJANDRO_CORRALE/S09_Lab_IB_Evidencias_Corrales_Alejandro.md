@@ -199,7 +199,7 @@ A1-A5, B1-B3, C1-C2, D1-D2 y D5 son verificables.
 
 ### Aspectos por corregir
 
-D3 no tiene imagen disponible; el checklist usa marcas ambiguas y la ruta/nomenclatura no es oficial.
+D3 no tiene imagen disponible; varias imagenes conservan nombres genericos y la ruta/nomenclatura no es oficial.
 
 ### Desglose del puntaje
 
