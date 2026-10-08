@@ -170,7 +170,7 @@ La tabla siguiente registra la evaluacion aplicada exclusivamente a esta ficha y
 | Reconstruccion tridimensional coherente | 2.50 | 2.50 | Puntaje completo: no se identificaron faltantes para este criterio. |
 | Aplicacion de restricciones y dimensiones | 1.50 | 1.13 | Puntaje parcial: La imagen enlazada en D3 no existe en el repositorio; por eso no se puede verificar visualmente el boceto y sus restricciones. B1 y C2 si contienen datos. |
 | Precision geometrica y correspondencia con el plano | 2.00 | 2.00 | Puntaje completo: no se identificaron faltantes para este criterio. |
-| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: La ficha esta en Laboratorio I/LAB_1B_ ALEJANDRO_CORRALE y el campo de acceso docente esta vacio; la ruta no coincide con las rutas oficiales aceptadas. |
+| Organizacion, nomenclatura y archivo editable | 1.00 | 0.00 | Puntaje 0,00: No indicaste en que proyecto o carpeta de Fusion Cloud esta el archivo editable ni declaraste que tiene acceso docente; ademas, la ficha esta fuera de las rutas oficiales. |
 | Presentacion y cumplimiento del enunciado | 1.00 | 0.50 | Puntaje parcial: D3 no tiene imagen disponible y el checklist usa marcas ambiguas como xxx y xx; por eso la entrega formal queda incompleta. |
 
 **Total obtenido: 8.13 / 10,00 %**
