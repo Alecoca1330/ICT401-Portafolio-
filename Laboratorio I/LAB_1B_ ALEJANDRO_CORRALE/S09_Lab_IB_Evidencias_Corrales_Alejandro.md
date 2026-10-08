@@ -195,20 +195,20 @@ Este bloque debe permitir una revisión rápida sin tener que inferir informaci�
 
 ### Fortalezas
 
-La ficha documenta dimensiones, caracteristicas, operaciones y verificaciones.
+A1-A5, B1-B3, C1-C2, D1-D2 y D5 son verificables.
 
 ### Aspectos por corregir
 
-Falta la imagen del boceto; hay marcas ambiguas en el checklist y la ruta/nomenclatura no es la oficial.
+D3 no tiene imagen disponible; el checklist usa marcas ambiguas y la ruta/nomenclatura no es oficial.
 
 ### Desglose del puntaje
 
 | Criterio | Puntaje obtenido |
 |---|---:|
-| R1 - Interpretacion correcta del plano o conjunto de vistas | 1.50 |
-| R2 - Reconstruccion tridimensional coherente | 1.88 |
+| R1 - Interpretacion correcta del plano o conjunto de vistas | 2.00 |
+| R2 - Reconstruccion tridimensional coherente | 2.50 |
 | R3 - Aplicacion de restricciones y dimensiones | 1.13 |
-| R4 - Precision geometrica y correspondencia con el plano | 1.50 |
+| R4 - Precision geometrica y correspondencia con el plano | 2.00 |
 | R5 - Organizacion, nomenclatura y archivo editable | 0.00 |
 | R6 - Presentacion y cumplimiento del enunciado | 0.50 |
 
@@ -217,4 +217,4 @@ R5 se califica con 0,00 porque la ficha no respeta una ruta y nomenclatura ofici
 
 ### Calificacion final
 
-**6.51 / 10,0 %**
+**8.13 / 10,0 %**
