@@ -292,7 +292,7 @@ Si no cambió la escala, la ficha debe explicar por qué la escala inicial conse
 
 ![P4: Drawing](S12_P4_Drawing_Corrales_Alejandro.png)
 
-![P4: PDF](S12_PlanoFinal_Corrales_Alejandro.pdf)
+![P4: PDF](S12_PlanoFinal_Corrales_Alejandro.png)
 
 ![P4: DXF](S12_P4_DXF_Corrales_Alejandro.png)
 
