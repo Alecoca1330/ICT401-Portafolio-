@@ -144,7 +144,7 @@ Registre en cada lección qué componente seleccionó, qué comando utilizó y q
 
 `S13_Correccion_Apellido_Nombre.png`: captura comparativa o lámina con el estado problemático y el estado corregido, ambos etiquetados.
 
-![L4: corrección](S13_Correccion_Corrales_Alejandro)
+![L4: corrección](S13_Correccion_Corrales_Alejandro.png)
 
 ## Checklist de cierre
 
