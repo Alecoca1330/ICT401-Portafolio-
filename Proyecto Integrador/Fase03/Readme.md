@@ -18,6 +18,8 @@ Posteriormente, se realizaron revisiones de interferencias, alineación, separac
 
 El ensamblaje quedó guardado en Fusion Cloud con la versión **Entrega Fase 3**.
 
+![Ensamblaje general](F03_Ensamblaje_General.png)
+
 ## Archivos de la entrega
 
 - `Informe_Fase3.pdf`: informe del ensamblaje y sus comprobaciones.
