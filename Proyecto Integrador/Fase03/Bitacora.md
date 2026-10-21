@@ -19,6 +19,7 @@ Posteriormente, se realizaron revisiones de interferencias, alineación, separac
 La principal dificultad fue que inicialmente las dos piezas estaban en un mismo archivo, lo que complicaba trabajar con ellas por separado. Para solucionarlo, se crearon dos copias del diseño y se dejó un componente en cada una. Así fue posible realizar el ensamblaje sin modificar el archivo original.
 
 El ensamblaje quedó guardado en Fusion Cloud con la versión **Entrega Fase 3**.
+<img src="F03_Ensamblaje_General.png" width="400">
 ##  Bitácora de trabajo 
 
 | Actividad | Trabajo realizado | Resultado |
@@ -31,7 +32,6 @@ El ensamblaje quedó guardado en Fusion Cloud con la versión **Entrega Fase 3**
 | Dimensiones | Se comprobaron los agujeros del calibrador. | Diámetros de **6, 8, 10 y 12 mm**. |
 | Guardado | Se guardó el ensamblaje en Fusion 360. | Versión **Entrega Fase 3**. |
 
-<img src="F03_Ensamblaje_General.png" width="400">
 ## Archivos de la entrega
 
 - `Informe_Fase3.pdf`: informe del ensamblaje y sus comprobaciones.
