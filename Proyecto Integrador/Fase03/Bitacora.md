@@ -31,8 +31,7 @@ El ensamblaje quedó guardado en Fusion Cloud con la versión **Entrega Fase 3**
 | Dimensiones | Se comprobaron los agujeros del calibrador. | Diámetros de **6, 8, 10 y 12 mm**. |
 | Guardado | Se guardó el ensamblaje en Fusion 360. | Versión **Entrega Fase 3**. |
 
-![Ensamblaje general](F03_Ensamblaje_General.png)
-
+<img src="F03_Ensamblaje_General.png" width="400">
 ## Archivos de la entrega
 
 - `Informe_Fase3.pdf`: informe del ensamblaje y sus comprobaciones.
