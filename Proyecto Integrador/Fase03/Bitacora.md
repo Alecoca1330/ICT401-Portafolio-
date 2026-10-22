@@ -36,7 +36,7 @@ El ensamblaje quedó guardado en Fusion Cloud con la versión **Entrega Fase 3**
 
 ## Archivos de la entrega
 
-- `Informe_Fase3.pdf`: informe del ensamblaje y sus comprobaciones.
+- [Fase 3. Proyecto Integrador.pdf](Fase%203.%20Proyecto%20Integrador.pdf)
 - `F03_Ensamblaje_General.png`: vista general del conjunto.
 - `F03_Sin_Interferencias.png`: resultado de la revisión de interferencias.
 - `F03_Separacion_1.555mm.png`: medición de separación entre componentes.
