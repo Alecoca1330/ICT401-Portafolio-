@@ -165,100 +165,61 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 ### 5. Lista básica de componentes
 
 | Ítem | Identificador visible | Nombre en la lista | Cantidad | Componente correspondiente | Verificado |
-|---:|---|---|---:|---|---|
-| 1 |  |  |  |  | [ ] |
-| 2 |  |  |  |  | [ ] |
-| 3 |  |  |  |  | [ ] |
-| 4 |  |  |  |  | [ ] |
-| 5 |  |  |  |  | [ ] |
+|---:|---|---|---:|---|:---:|
+| 1 | 1 | Base | 1 | Base del ensamblaje | [x] |
+| 2 | 2 | Soporte | 1 | Soporte vertical | [x] |
+| 3 | 3 | Pasador | 1 | Pasador del alojamiento | [x] |
 
 ![Lista básica de componentes e identificadores](evidencias/S14_E3_Lista_Componentes.png)
 
 | Comparación | Resultado |
 |---|---|
-| Diferencia encontrada entre el Browser, la vista y la lista |  |
-| Corrección aplicada |  |
-| ¿Cada globo o número de referencia corresponde una sola vez a un componente? |  |
+| Diferencia encontrada entre el Browser, la vista y la lista | Al inicio la tabla mostraba el número de pieza en lugar del nombre de cada componente. |
+| Corrección aplicada | Se ajustó la información de la tabla para que aparecieran los nombres Base, Soporte y Pasador. |
+| ¿Cada globo o número de referencia corresponde una sola vez a un componente? | Sí, cada identificador apunta a una pieza diferente y coincide con la lista. |
+## Lección 4. Revisión y documentación final
 
-## Lección 4. Documentación y evaluación
+### 6. Revisión del dibujo técnico
 
-### 6. Documentación del conjunto
+| Elemento revisado | Estado |
+|---|:---:|
+| Vista frontal incluida | [x] |
+| Vista superior incluida | [x] |
+| Vista lateral derecha incluida | [x] |
+| Vista explosionada incluida | [x] |
+| Lista de componentes incluida | [x] |
+| Globos o identificadores incluidos | [x] |
+| Cajetín visible | [x] |
+| Información legible | [x] |
+| Vistas sin traslapes | [x] |
+| Lista y globos relacionados correctamente | [x] |
 
-| Criterio | Sí | No | Corrección necesaria |
-|---|:---:|:---:|---|
-| La vista muestra todos los componentes importantes | [ ] | [ ] |  |
-| La separación sigue una lógica de montaje | [ ] | [ ] |  |
-| El mismo Drawing contiene Front, Top y Right del ensamble normal | [ ] | [ ] |  |
-| Las vistas ortogonales están organizadas en primer diedro europeo | [ ] | [ ] |  |
-| El mismo Drawing contiene también la vista explosionada | [ ] | [ ] |  |
-| `Top` está debajo de `Front` y `Right` a la izquierda de `Front` | [ ] | [ ] |  |
-| Las vistas relacionadas están alineadas y suficientemente separadas | [ ] | [ ] |  |
-| La vista explosionada, lista y globos tienen una zona propia | [ ] | [ ] |  |
-| Ningún elemento invade el cajetín | [ ] | [ ] |  |
-| Se comprobó el símbolo o configuración de primer diedro | [ ] | [ ] |  |
-| Los identificadores se leen con claridad | [ ] | [ ] |  |
-| La lista coincide con el modelo | [ ] | [ ] |  |
-| Los contornos, ejes, ocultas y trayectorias se distinguen | [ ] | [ ] |  |
-| Los globos o identificadores coinciden una sola vez con la lista | [ ] | [ ] |  |
-| La hoja, escala, orientación e identificación son coherentes | [ ] | [ ] |  |
-| El modelo, Storyboard y Drawing corresponden a la misma versión | [ ] | [ ] |  |
-| La orientación facilita la interpretación | [ ] | [ ] |  |
-| La escala permite leer textos y componentes | [ ] | [ ] |  |
-| No hay superposiciones innecesarias | [ ] | [ ] |  |
-| El título y los datos del conjunto están completos | [ ] | [ ] |  |
-| La versión del modelo, Storyboard, Drawing y evidencias coincide | [ ] | [ ] |  |
+**Evidencia final:**
 
-**Archivo o captura de la documentación final:** <br>
 ![Documentación final del conjunto](evidencias/S14_E4_Documentacion_Final.png)
 
-| Resultado de la revisión con la rúbrica | Registro |
+### 7. Problemas encontrados y correcciones realizadas
+
+| Problema encontrado | Corrección realizada |
 |---|---|
-| Criterio que cumple mejor |  |
-| Criterio que requiere corrección |  |
-| Corrección prioritaria |  |
-
-### 7. Problemas y correcciones
-
-| Problema observado | Causa probable | Corrección aplicada | Evidencia |
-|---|---|---|---|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| La lista mostraba inicialmente el número de pieza en lugar del nombre. | Se ajustó la información de la tabla para mostrar Base, Soporte y Pasador. |
+| Fue necesario organizar los elementos del Drawing para mantener la lectura clara. | Se acomodaron las vistas, la lista de piezas y los globos sin tapar el cajetín. |
+| La vista explosionada debía mantenerse relacionada con el conjunto original. | Se utilizó el Storyboard creado en Animation y se integró en el mismo Drawing. |
 
 ### 8. Autoevaluación
 
-| Pregunta | Respuesta |
+| Criterio | Valoración |
 |---|---|
-| ¿Qué componente funcionó como referencia y por qué? |  |
-| ¿Qué criterio utilizó para definir el orden de separación? |  |
-| ¿Qué diferencia existe entre mover una pieza y documentar una vista explosionada? |  |
-| ¿Cómo comprobó que la lista coincide con el conjunto? |  |
-| ¿Qué corrección mejoró más la legibilidad de la documentación? |  |
+| Identificación de los componentes | Cumplido |
+| Secuencia de separación | Cumplido |
+| Vista explosionada | Cumplido |
+| Lista de componentes | Cumplido |
+| Globos de referencia | Cumplido |
+| Organización del Drawing | Cumplido |
+| Evidencias solicitadas | Cumplido |
 
-## Cierre de las cuatro lecciones
+### 9. Cierre de la Semana 14
 
-### 9. Evidencias finales
+Durante esta semana se trabajó con el ensamblaje realizado anteriormente y se creó una vista explosionada para representar de mejor manera la relación entre sus componentes. Se mantuvo la base como referencia, se desplazó el soporte verticalmente y el pasador siguiendo su propio eje.
 
-| Evidencia | Nombre o ruta del archivo | Completa | Observaciones |
-|---|---|:---:|---|
-| Archivo o enlace verificable del conjunto en Fusion |  | [ ] |  |
-| Vista explosionada | `evidencias/S14_E2_Vista_Explosionada.png` | [ ] |  |
-| Lista básica de componentes | `evidencias/S14_E3_Lista_Componentes.png` | [ ] |  |
-| Documentación del conjunto | `evidencias/S14_E4_Documentacion_Final.png` | [ ] |  |
-| Captura del estado inicial | `evidencias/S14_E1_Conjunto_Inicial.png` | [ ] |  |
-| Tabla y justificación del componente de referencia |  | [ ] |  |
-| Plan de montaje y separación de la Lección 1 |  | [ ] |  |
-| Registro de la dificultad o duda comprobada |  | [ ] |  |
-| Capturas del proceso o de las correcciones |  | [ ] |  |
-| Registro de la posición o storyboard | `evidencias/S14_E2_Posicion_Intermedia.png` | [ ] |  |
-| Ficha completa y nombrada correctamente |  | [ ] |  |
-| Revisión de la rúbrica de la Fase 3 |  | [ ] |  |
-
-### 10. Cierre
-
-| Cierre | Registro |
-|---|---|
-| Dificultad principal |  |
-| Decisión técnica más importante |  |
-| Pendiente antes de entregar |  |
-| Nombre final de la versión entregada |  |
+Después se creó el Drawing con las vistas normales del conjunto y se agregó la vista explosionada, la lista de componentes y los globos de identificación. Finalmente, se revisó que toda la información quedara ordenada, legible y relacionada correctamente con cada pieza del ensamblaje.
