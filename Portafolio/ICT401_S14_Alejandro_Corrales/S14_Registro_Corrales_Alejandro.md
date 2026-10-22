@@ -72,7 +72,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 **Captura del conjunto antes de crear la vista explosionada:**
 
-![Conjunto inicial de la Semana 13](evidencias/S14_E1_Conjunto_Inicial.png)
+![Conjunto inicial de la Semana 13](S14_E1_Conjunto_Inicial.png)
 
 | Análisis de referencia | Registro |
 |---|---|
@@ -87,7 +87,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | 3 | Pasador | Atravesar el alojamiento del soporte y permitir el giro. | 1 | Pieza de Semana 13 | Conserva movimiento de revolución. |
 
 **Captura del conjunto antes de crear la vista explosionada:**
-![Conjunto inicial de la Semana 13](evidencias/S14_E1_Conjunto_Inicial.png)
+![Conjunto inicial de la Semana 13](S14_E1_Conjunto_Inicial.png)
 
 | Análisis de referencia | Registro |
 |---|---|
@@ -139,11 +139,11 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 **Captura de la vista explosionada:**
 
-![Vista explosionada inicial](evidencias/S14_E2_Vista_Explosionada.png)
+![Vista explosionada inicial](S14_E2_Vista_Explosionada.png)
 
 **Captura de la posición o versión intermedia:**
 
-![Posición o storyboard intermedio](evidencias/S14_E2_Posicion_Intermedia.png)
+![Posición o storyboard intermedio](S14_E2_Posicion_Intermedia.png)
 
 ### Decisiones realizadas en Fusion
 
@@ -170,7 +170,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | 2 | 2 | Soporte | 1 | Soporte vertical | [x] |
 | 3 | 3 | Pasador | 1 | Pasador del alojamiento | [x] |
 
-![Lista básica de componentes e identificadores](evidencias/S14_E3_Lista_Componentes.png)
+![Lista básica de componentes e identificadores](S14_E3_Lista_Componentes.png)
 
 | Comparación | Resultado |
 |---|---|
@@ -196,7 +196,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 **Evidencia final:**
 
-![Documentación final del conjunto](evidencias/S14_E4_Documentacion_Final.png)
+![Documentación final del conjunto](S14_E4_Documentacion_Final.png)
 
 ### 7. Problemas encontrados y correcciones realizadas
 
