@@ -1,61 +1,55 @@
 # Ficha de registro: Semana 14
 
-**Curso:** ICT401 – Dibujo Técnico Asistido por Computadora
-**Semana:** 14
-**Tema:** Vista explosionada, lista de componentes y documentación de conjuntos
-**Estudiante:** Apellido, Nombre
-**Fecha:** 22 de octubre de 2026
-**Archivo o enlace del conjunto:** `ruta/al/archivo-o-enlace`
+**Curso:** ICT401 – Dibujo Técnico Asistido por Computadora  
+**Semana:** 14  
+**Tema:** Vista explosionada, lista de componentes y documentación de conjuntos  
+**Estudiante:** Manuel Alejandro Corrales Casanova  
+**Fecha:** 22 de octubre de 2026  
+**Archivo o enlace del conjunto:** [https://a360.co/4zOUoNn]
 
 ## Propósito
 
-Esta ficha registra las decisiones, comprobaciones, dificultades y evidencias de la documentación del conjunto. Se trabaja con el ensamblaje validado en la Semana 13. No sustituye la rúbrica oficial de la Fase 3 ni la Prueba Corta 3.
+Esta ficha registra las decisiones, comprobaciones, dificultades y evidencias de la documentación del conjunto. Se trabajó con el ensamblaje validado en la Semana 13, utilizando la base, el soporte y el pasador para crear la vista explosionada y su documentación técnica.
 
 ## Criterios normativos de revisión
 
-La aplicación de estas normas es didáctica y selectiva; no constituye una certificación integral de conformidad normativa. Registre la evidencia o la limitación encontrada.
-
 | Referencia | Criterio que se aplica | Evidencia o limitación registrada |
 |---|---|---|
-| INTE/ISO 128-1:2024 | La vista comunica el conjunto sin ambigüedad y conserva la identidad de sus componentes. |  |
-| INTE/ISO 128-2:2023 | Contornos, ejes, líneas ocultas y líneas de trayectoria se distinguen; las trayectorias no sustituyen los contornos. |  |
-| INTE/ISO 128-3:2025 / ISO 5456-2 | La orientación, las vistas y el método de proyección son coherentes. |  |
-| ISO 5457 | La hoja, orientación, escala y distribución permiten leer la documentación. |  |
-| INTE/ISO 7200:2008 | El cajetín o encabezado identifica conjunto, estudiante, fecha, unidades, escala y versión cuando estén disponibles. |  |
-| ISO 7573 / ISO 6433 | La lista, las cantidades y los números de referencia corresponden a componentes reales. |  |
-| ISO 16792:2021 | Modelo, Storyboard, Drawing, lista y evidencias corresponden a la misma versión. |  |
+| INTE/ISO 128-1:2024 | La vista comunica el conjunto sin ambigüedad y conserva la identidad de sus componentes. | Los tres componentes se distinguen claramente en las vistas normales y en la vista explosionada. |
+| INTE/ISO 128-2:2023 | Contornos, ejes, líneas ocultas y líneas de trayectoria se distinguen; las trayectorias no sustituyen los contornos. | Las líneas del Drawing permiten diferenciar las piezas y su representación. |
+| INTE/ISO 128-3:2025 / ISO 5456-2 | La orientación, las vistas y el método de proyección son coherentes. | Se utilizaron las vistas Front, Top y Right con distribución de primer diedro. |
+| ISO 5457 | La hoja, orientación, escala y distribución permiten leer la documentación. | Se utilizó una hoja A4 y se distribuyeron las vistas evitando superposiciones. |
+| INTE/ISO 7200:2008 | El cajetín o encabezado identifica conjunto, estudiante, fecha, unidades, escala y versión cuando estén disponibles. | El Drawing incluye cajetín en la parte inferior derecha. |
+| ISO 7573 / ISO 6433 | La lista, las cantidades y los números de referencia corresponden a componentes reales. | La lista contiene Base, Soporte y Pasador, cada uno con cantidad 1 y su globo correspondiente. |
+| ISO 16792:2021 | Modelo, Storyboard, Drawing, lista y evidencias corresponden a la misma versión. | La vista explosionada y el Drawing se generaron a partir del ensamblaje trabajado en la Semana 14. |
 
 **Alcance:** no se aplican ISO 129-1, ISO 8015 ni ISO 2768 como requisitos de esta semana porque no se solicitan cotas funcionales ni tolerancias de fabricación.
 
 ## Producto documental integrado
 
-La entrega debe corresponder a **un único Drawing de Fusion**. Registre aquí cómo integró las representaciones:
-
 | Elemento obligatorio | Hoja o ubicación dentro del Drawing | Comprobado |
 |---|---|:---:|
-| Vistas normales `Front`, `Top` y `Right` |  | [ ] |
-| Proyección de primer diedro (sistema europeo) |  | [ ] |
-| Símbolo o configuración del método de proyección |  | [ ] |
-| Vista explosionada del `Storyboard` |  | [ ] |
-| Lista de componentes |  | [ ] |
-| Globos o números de referencia |  | [ ] |
-| Cajetín e identificación del conjunto |  | [ ] |
-| Nombre y versión del modelo de origen |  | [ ] |
-
-Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del mismo Drawing. No entregue la vista explosionada y las vistas ortogonales como documentos independientes.
+| Vistas normales `Front`, `Top` y `Right` | Hoja 1 | [x] |
+| Proyección de primer diedro (sistema europeo) | Hoja 1 | [x] |
+| Símbolo o configuración del método de proyección | Hoja 1 | [x] |
+| Vista explosionada del `Storyboard` | Hoja 1 | [x] |
+| Lista de componentes | Hoja 1 | [x] |
+| Globos o números de referencia | Hoja 1 | [x] |
+| Cajetín e identificación del conjunto | Hoja 1 | [x] |
+| Nombre y versión del modelo de origen | Drawing de Semana 14 | [x] |
 
 ### Distribución de la hoja
 
 | Control de distribución | Registro o evidencia |
 |---|---|
-| Vista principal utilizada como referencia |  |
-| `Top` colocado debajo de `Front` |  |
-| `Right` colocado a la izquierda de `Front` |  |
-| Alineación y separación entre vistas ortogonales |  |
-| Zona reservada para la vista explosionada |  |
-| Ubicación de la lista y los globos |  |
-| Cajetín libre de superposiciones |  |
-| Hoja adicional utilizada dentro del mismo Drawing, si corresponde |  |
+| Vista principal utilizada como referencia | Front |
+| `Top` colocado debajo de `Front` | Sí |
+| `Right` colocado a la izquierda de `Front` | Sí |
+| Alineación y separación entre vistas ortogonales | Las vistas se colocaron alineadas y con suficiente separación. |
+| Zona reservada para la vista explosionada | Parte derecha de la hoja. |
+| Ubicación de la lista y los globos | Cerca de la vista explosionada, sin tapar las demás vistas. |
+| Cajetín libre de superposiciones | Sí |
+| Hoja adicional utilizada dentro del mismo Drawing, si corresponde | No fue necesaria. |
 
 ## Lección 1. Análisis del ensamblaje y planificación
 
@@ -64,7 +58,7 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 | Elemento | Registro |
 |---|---|
 | Nombre del archivo original | Ensamblaje de la Semana 13 |
-| Nombre de la copia de trabajo | [pon aquí el nombre con el que guardaste la copia de Semana 14] |
+| Nombre de la copia de trabajo | [S14_Drawing_Corrales_Alejandro] |
 | Versión o fecha de respaldo | 22/10/2026 |
 | Número de componentes | 3 |
 | Componente de referencia | Base |
