@@ -63,31 +63,43 @@ Las vistas pueden distribuirse en varias hojas, pero deben permanecer dentro del
 
 | Elemento | Registro |
 |---|---|
-| Nombre del archivo original |  |
-| Nombre de la copia de trabajo |  |
-| Versión o fecha de respaldo |  |
-| Número de componentes |  |
-| Componente de referencia |  |
-| Estado inicial del ensamblaje |  |
+| Nombre del archivo original | Ensamblaje de la Semana 13 |
+| Nombre de la copia de trabajo | [pon aquí el nombre con el que guardaste la copia de Semana 14] |
+| Versión o fecha de respaldo | 22/10/2026 |
+| Número de componentes | 3 |
+| Componente de referencia | Base |
+| Estado inicial del ensamblaje | Ensamblaje completo, con base, soporte y pasador colocados y relacionados correctamente. |
+
+**Captura del conjunto antes de crear la vista explosionada:**
+
+![Conjunto inicial de la Semana 13](evidencias/S14_E1_Conjunto_Inicial.png)
+
+| Análisis de referencia | Registro |
+|---|---|
+| ¿Por qué se mantiene ese componente como referencia? | La base se mantiene como referencia porque sostiene las demás piezas y permite entender la posición del soporte y del pasador dentro del conjunto. |
+
+### 2. Componentes del conjunto
+
+| ID | Nombre del componente | Función | Cantidad | Referencia o archivo | Observaciones |
+|---|---|---|---:|---|---|
+| 1 | Base | Servir como apoyo y referencia principal del ensamblaje. | 1 | Pieza de Semana 13 | Se mantiene fija. |
+| 2 | Soporte vertical | Sostener y ubicar el alojamiento donde pasa el pasador. | 1 | Pieza de Semana 13 | Unido de forma rígida a la base. |
+| 3 | Pasador | Atravesar el alojamiento del soporte y permitir el giro. | 1 | Pieza de Semana 13 | Conserva movimiento de revolución. |
 
 **Captura del conjunto antes de crear la vista explosionada:**
 ![Conjunto inicial de la Semana 13](evidencias/S14_E1_Conjunto_Inicial.png)
 
 | Análisis de referencia | Registro |
 |---|---|
-| ¿Por qué se mantiene ese componente como referencia? |  |
+| ¿Por qué se mantiene ese componente como referencia? | La base se mantiene como referencia porque sostiene las demás piezas y permite entender la posición del soporte y del pasador dentro del conjunto. |
 
 ### 2. Componentes del conjunto
 
 | ID | Nombre del componente | Función | Cantidad | Referencia o archivo | Observaciones |
 |---|---|---|---:|---|---|
-| 1 |  |  |  |  |  |
-| 2 |  |  |  |  |  |
-| 3 |  |  |  |  |  |
-| 4 |  |  |  |  |  |
-| 5 |  |  |  |  |  |
-
-Agregue filas si el conjunto contiene más componentes.
+| 1 | Base | Servir como apoyo y referencia principal del ensamblaje. | 1 | Pieza de Semana 13 | Se mantiene fija. |
+| 2 | Soporte vertical | Sostener y ubicar el alojamiento donde pasa el pasador. | 1 | Pieza de Semana 13 | Unido de forma rígida a la base. |
+| 3 | Pasador | Atravesar el alojamiento del soporte y permitir el giro. | 1 | Pieza de Semana 13 | Conserva movimiento de revolución. |
 
 ### 3. Plan de montaje y separación
 
@@ -95,57 +107,58 @@ Agregue filas si el conjunto contiene más componentes.
 
 | Orden | Acción | Componente | Referencia o contacto | Dirección | Función comunicada | Comprobado |
 |---:|---|---|---|---|---|:---:|
-| 1 | Montar / retirar |  |  |  |  | [ ] |
-| 2 | Montar / retirar |  |  |  |  | [ ] |
-| 3 | Montar / retirar |  |  |  |  | [ ] |
-| 4 | Montar / retirar |  |  |  |  | [ ] |
+| 1 | Montar | Base | Superficie de apoyo | Se mantiene fija | Sirve como referencia principal del conjunto. | [x] |
+| 2 | Montar | Soporte vertical | Cara inferior del soporte con cara superior de la base | Vertical | Muestra cómo el soporte se coloca sobre la base. | [x] |
+| 3 | Montar | Pasador | Alojamiento circular del soporte | Siguiendo su eje | Muestra cómo el pasador atraviesa el soporte. | [x] |
 
 | Decisión | Respuesta |
 |---|---|
-| Componente que se colocaría primero |  |
-| Componente que se retiraría al final |  |
-| Criterio utilizado para definir el orden |  |
+| Componente que se colocaría primero | La base. |
+| Componente que se retiraría al final | La base, porque se mantiene como referencia del conjunto. |
+| Criterio utilizado para definir el orden | Se siguió la forma en que las piezas se apoyan y se relacionan entre sí durante el montaje. |
 
 | Orden | Componente | Dirección o referencia de separación | Razón funcional | Distancia aproximada | Comprobado |
 |---:|---|---|---|---:|---|
-| 1 |  |  |  |  | [ ] |
-| 2 |  |  |  |  | [ ] |
-| 3 |  |  |  |  | [ ] |
-| 4 |  |  |  |  | [ ] |
+| 1 | Pasador | A lo largo de su propio eje | Permite mostrar claramente cómo atraviesa el alojamiento del soporte. | Se definirá en L2 según la legibilidad. | [x] |
+| 2 | Soporte vertical | Verticalmente hacia arriba desde la base | Permite mostrar las superficies de contacto entre soporte y base. | Se definirá en L2 según la legibilidad. | [x] |
+| 3 | Base | Se mantiene fija | Funciona como referencia principal del ensamblaje. | 0 mm | [x] |
 
 | Pregunta de análisis | Respuesta |
 |---|---|
-| ¿Qué relación de montaje comunica la secuencia? |  |
-| ¿Qué dificultad o duda debe comprobarse durante la Lección 2? |  |
+| ¿Qué relación de montaje comunica la secuencia? | La secuencia muestra que primero se tiene la base como apoyo, luego se coloca el soporte y finalmente se introduce el pasador en el alojamiento. |
+| ¿Qué dificultad o duda debe comprobarse durante la Lección 2? | Se debe comprobar qué distancia de separación permite ver claramente las tres piezas sin perder la relación visual entre ellas. |
 
 ## Lección 2. Construcción de la vista explosionada
 
 ### 4. Construcción en Fusion
 
-**Herramienta utilizada:** `Animation > Transform > Move` o `Auto Explode` <br>
-**Storyboard:**
-**Vista u orientación principal:**
-**Criterio para separar los componentes:**
+**Herramienta utilizada:** Animation > Transform > Transformar componentes  
+**Storyboard:** Storyboard de Semana 14  
+**Vista u orientación principal:** Vista isométrica  
+**Criterio para separar los componentes:** Se mantuvo la base como referencia, el soporte se desplazó verticalmente y el pasador se separó siguiendo su propio eje.
 
 **Captura de la vista explosionada:**
+
 ![Vista explosionada inicial](evidencias/S14_E2_Vista_Explosionada.png)
 
-**Captura de la posición o versión intermedia, si corresponde:**
+**Captura de la posición o versión intermedia:**
+
 ![Posición o storyboard intermedio](evidencias/S14_E2_Posicion_Intermedia.png)
 
-**Decisiones realizadas en Fusion:**
+### Decisiones realizadas en Fusion
 
 | Decisión | Acción realizada | Resultado observado | Evidencia |
 |---|---|---|---|
-| Orientación principal |  |  |  |
-| Dirección de separación |  |  |  |
-| Distancia o posición |  |  |  |
-| Captura de posición / storyboard |  |  |  |
+| Orientación principal | Se utilizó una vista isométrica para observar mejor las tres piezas. | Los componentes se distinguen con claridad. | S14_E2_Vista_Explosionada.png |
+| Dirección de separación | El pasador se movió siguiendo su eje y el soporte se desplazó hacia arriba. | Se mantiene clara la relación entre las piezas. | S14_E2_Vista_Explosionada.png |
+| Distancia o posición | El pasador se separó aproximadamente 50 mm y el soporte se alejó lo suficiente de la base. | La separación permite entender el conjunto sin alejar demasiado las piezas. | S14_E2_Vista_Explosionada.png |
+| Captura de posición / storyboard | Se registró una posición intermedia del proceso de separación. | Permite observar cómo se fue construyendo la vista explosionada. | S14_E2_Posicion_Intermedia.png |
 
-**¿Se modificó alguna geometría?** Sí [ ] No [ ] <br>
-**¿Se capturó la posición o el storyboard?** Sí [ ] No [ ]
+**¿Se modificó alguna geometría?** Sí [ ] No [x]
 
-**¿Las líneas de trayectoria se distinguen de contornos, ejes y líneas ocultas?** Sí [ ] No [ ]
+**¿Se capturó la posición o el storyboard?** Sí [x] No [ ]
+
+**¿Las líneas de trayectoria se distinguen de contornos, ejes y líneas ocultas?** Sí [x] No [ ]
 
 ## Lección 3. Lista de componentes y rotulación
 
