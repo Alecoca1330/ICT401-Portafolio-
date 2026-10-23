@@ -41,10 +41,9 @@ No registre una distancia desde una esquina para ubicar el pasador. Su posición
 
 | Componente | Nombre en Fusion | Función dentro del conjunto | Observación inicial |
 |---|---|---|---|
-| Base | [Respuesta] | [Respuesta] | [Respuesta] |
-| Soporte vertical | [Respuesta] | [Respuesta] | [Respuesta] |
-| Eje o pasador | [Respuesta] | [Respuesta] | [Respuesta] |
-
+| Base | Base | Servir como soporte principal y referencia del ensamblaje. | Se mantiene fija durante el ensamblaje. |
+| Soporte vertical | Soporte | Sostener el alojamiento por donde pasa el pasador. | Se coloca centrado sobre la base y se une mediante una relación rígida. |
+| Eje o pasador | Pasador | Atravesar el alojamiento del soporte y permitir movimiento de giro. | Se coloca coaxial con el agujero del soporte y utiliza una relación de revolución. |
 ## Comandos bilingues de Fusion
 
 | Accion | Ruta o comando | Resultado esperado |
