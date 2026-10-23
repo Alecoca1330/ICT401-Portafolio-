@@ -51,7 +51,7 @@ A partir de los perfiles circulares se empleó **Extrude (Extrusión)** en modal
 
 Se aplicó **Fillet (Empalme)** a aristas exteriores del cuerpo principal y del mango, con el fin de redondear las transiciones y mejorar el acabado geométrico. La captura muestra las aristas seleccionadas y el historial de operaciones; **no se consigna un radio de empalme** porque no se aprecia en la evidencia.
 
-![Empalme del calibrador](Evidencias/Evidencia_empalme_calibrador.png)
+![Empalme del calibrador](Evidencia_empalme_calibrador.png)
 
 *Figura 4. Selección de aristas exteriores para aplicar empalmes al calibrador.*
 
