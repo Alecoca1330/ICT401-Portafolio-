@@ -98,7 +98,7 @@ Para verificar la respuesta del diseño se realizó la siguiente comprobación:
 
 *Figura 9. Estado original del agujero de 6 mm.*
 
-![Cambio a 7 mm](Evidencias/Evidencia_paramétrica_7mm.png)
+![Figura 10. Modificación paramétrica de 6 mm a 7 mm](Evidencias/Evidencia_parametrica_7mm.png)
 
 *Figura 10. Prueba temporal del cambio paramétrico de 6 mm a 7 mm.*
 
