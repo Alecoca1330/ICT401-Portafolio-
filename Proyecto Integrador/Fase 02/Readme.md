@@ -49,7 +49,7 @@ A partir de los perfiles circulares se empleó **Extrude (Extrusión)** en modal
 
 ### 2.3. Empalme de aristas del calibrador
 
-Se aplicó **Fillet (Empalme)** a aristas exteriores del cuerpo principal y del mango, con el fin de redondear las transiciones y mejorar el acabado geométrico. La captura muestra las aristas seleccionadas y el historial de operaciones; **no se consigna un radio de empalme** porque no se aprecia en la evidencia.
+Se aplicó **Fillet (Empalme)**  de 2mm. a aristas exteriores del cuerpo principal y del mango, con el fin de redondear las transiciones y mejorar el acabado geométrico. La captura muestra las aristas seleccionadas y el historial de operaciones;
 
 ![Empalme del calibrador](Evidencias/Evidencia_empalme_calibrador.png)
 
@@ -67,7 +67,7 @@ Se modeló un soporte con base y **dos parales verticales ubicados en los extrem
 
 ### 3.2. Empalme de aristas del soporte
 
-Se empleó **Fillet (Empalme)** sobre aristas seleccionadas del soporte para redondear bordes y mejorar las transiciones de su geometría. No se indica el radio de curvatura porque la captura no lo especifica.
+Se empleó **Fillet (Empalme)** de 2mm sobre aristas seleccionadas del soporte para redondear bordes y mejorar las transiciones de su geometría.
 
 ![Empalme del soporte](Evidencias/Evidencia_empalme_soporte.png)
 
@@ -140,5 +140,4 @@ Se obtuvo el **modelo inicial del calibrador y su soporte**, con agujeros nomina
 - **Manuel Alejandro Corrales Casanova:** desarrollo del calibrador de diámetros.
 - **Francella Madrigal Vargas:** desarrollo del soporte del calibrador.
 
-**Nota de trazabilidad:** las dimensiones y la prueba paramétrica provienen del informe original. Las cuatro capturas adicionales documentan los empalmes, la extrusión de corte y la geometría de apoyo del soporte. No se asignan radios de empalme, espesores ni secuencias de operaciones que no estén acreditados por las evidencias.
 
