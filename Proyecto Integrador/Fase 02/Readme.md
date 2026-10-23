@@ -43,7 +43,7 @@ Se elaboró una pieza alargada con cuerpo principal, mango y cuatro agujeros ide
 
 A partir de los perfiles circulares se empleó **Extrude (Extrusión)** en modalidad de corte para generar los agujeros. En la captura adicional se observa una **distancia de extrusión de −30 mm**; el signo negativo indica la dirección de la operación respecto del plano de referencia. Se documenta como **recorrido del corte**, sin asumir que el espesor final de la pieza sea de 30 mm.
 
-![Extrusión de corte de 30 mm](Evidencias/Evidencia_corte_30mm_calibrador.png)
+![Extrusión de corte de 30 mm](Evidencias/Evidencia_empalme_calibrador.png)
 
 *Figura 3. Operación de extrusión de corte de los perfiles seleccionados, con distancia de −30 mm.*
 
