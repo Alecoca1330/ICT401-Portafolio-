@@ -43,7 +43,7 @@ Se elaboró una pieza alargada con cuerpo principal, mango y cuatro agujeros ide
 
 A partir de los perfiles circulares se empleó **Extrude (Extrusión)** en modalidad de corte para generar los agujeros. En la captura adicional se observa una **distancia de extrusión de −30 mm**; el signo negativo indica la dirección de la operación respecto del plano de referencia. Se documenta como **recorrido del corte**, sin asumir que el espesor final de la pieza sea de 30 mm.
 
-![Extrusión de corte de 30 mm](Evidencia_profundidad_agujeros_30mm.png)
+![Extrusión de corte de 30 mm](Evidencias/Evidencia_profundidad_agujeros_30mm.png)
 
 *Figura 3. Operación de extrusión de corte de los perfiles seleccionados, con distancia de −30 mm.*
 
@@ -51,7 +51,7 @@ A partir de los perfiles circulares se empleó **Extrude (Extrusión)** en modal
 
 Se aplicó **Fillet (Empalme)** a aristas exteriores del cuerpo principal y del mango, con el fin de redondear las transiciones y mejorar el acabado geométrico. La captura muestra las aristas seleccionadas y el historial de operaciones; **no se consigna un radio de empalme** porque no se aprecia en la evidencia.
 
-![Empalme del calibrador](Evidencia_empalme_calibrador.png)
+![Empalme del calibrador](Evidencias/Evidencia_empalme_calibrador.png)
 
 *Figura 4. Selección de aristas exteriores para aplicar empalmes al calibrador.*
 
@@ -98,7 +98,7 @@ Para verificar la respuesta del diseño se realizó la siguiente comprobación:
 
 *Figura 9. Estado original del agujero de 6 mm.*
 
-![Cambio a 7 mm](Evidencias/Evidencia_param%C3%A9trica_7mm.png)
+![Cambio a 7 mm](Evidencias/Evidencia_paramétrica_7mm.png)
 
 *Figura 10. Prueba temporal del cambio paramétrico de 6 mm a 7 mm.*
 
