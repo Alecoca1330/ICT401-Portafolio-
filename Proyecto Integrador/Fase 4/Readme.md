@@ -56,7 +56,7 @@ Este archivo contiene el plano del calibrador en formato PDF, lo que permite con
 
 **Evidencia 3. Archivo DXF del calibrador**
 
-[Ver archivo DXF del calibrador](Evidencias/ICT401_Fase4_Plano_Calibrador%20Plano1.dxf)
+[Ver archivo DXF del calibrador](Evidencias/ICT401_Fase4_Plano_Calibrador Planodxt.png)
 
 También preparamos el archivo DXF del calibrador para contar con un formato que pueda utilizarse en otros programas de dibujo técnico.
 
@@ -84,7 +84,7 @@ Este documento contiene la representación técnica del soporte, incluyendo las 
 
 **Evidencia 6. Archivo DXF del soporte**
 
-[Ver archivo DXF del soporte](Evidencias/ICT401_Fase4_Plano_Soporte%20Plano%20dxt.dxf)
+[Ver archivo DXF del soporte](Evidencias/ICT401_Fase4_Plano_Soporte Plano dxt.png)
 
 Además del PDF, preparamos el archivo DXF del soporte para conservar su información de dibujo en otro formato.
 
