@@ -44,19 +44,19 @@ También completamos el cajetín del plano con la información correspondiente a
 
 **Evidencia 1. Plano técnico del calibrador**
 
-![Plano técnico del calibrador](Evidencia_02_Plano_Calibrador.png)
+![Plano técnico del calibrador](Evidencias/Evidencia_02_Plano_Calibrador.png)
 
 En esta imagen se observa el plano técnico del calibrador, donde se representan sus vistas, dimensiones y los cuatro agujeros.
 
 **Evidencia 2. Archivo PDF del calibrador**
 
-[Ver plano técnico del calibrador en PDF](ICT401_Fase4_Plano_Calibrador.pdf)
+[Ver plano técnico del calibrador en PDF](Evidencias/ICT401_Fase4_Plano_Calibrador.pdf)
 
 Este archivo contiene el plano del calibrador en formato PDF, lo que permite consultar sus dimensiones y características sin necesidad de abrir Fusion 360.
 
 **Evidencia 3. Archivo DXF del calibrador**
 
-[Ver archivo DXF del calibrador](ICT401_Fase4_Plano_Calibrador%20Plano1.dxf)
+[Ver archivo DXF del calibrador](Evidencias/ICT401_Fase4_Plano_Calibrador%20Plano1.dxf)
 
 También preparamos el archivo DXF del calibrador para contar con un formato que pueda utilizarse en otros programas de dibujo técnico.
 
@@ -72,19 +72,19 @@ Al finalizar, revisamos la presentación del plano y completamos el cajetín.
 
 **Evidencia 4. Plano técnico del soporte**
 
-![Plano técnico del soporte](Evidencia_03_Plano_Soporte.png)
+![Plano técnico del soporte](Evidencias/Evidencia_03_Plano_Soporte.png)
 
 En esta captura se puede observar el plano del soporte, con sus diferentes vistas y las medidas necesarias para comprender su geometría.
 
 **Evidencia 5. Archivo PDF del soporte**
 
-[Ver plano técnico del soporte en PDF](ICT401_Fase4_Plano_Soporte.pdf)
+[Ver plano técnico del soporte en PDF](Evidencias/ICT401_Fase4_Plano_Soporte.pdf)
 
 Este documento contiene la representación técnica del soporte, incluyendo las dimensiones principales de su estructura.
 
 **Evidencia 6. Archivo DXF del soporte**
 
-[Ver archivo DXF del soporte](ICT401_Fase4_Plano_Soporte%20Plano%20dxt.dxf)
+[Ver archivo DXF del soporte](Evidencias/ICT401_Fase4_Plano_Soporte%20Plano%20dxt.dxf)
 
 Además del PDF, preparamos el archivo DXF del soporte para conservar su información de dibujo en otro formato.
 
@@ -102,13 +102,13 @@ El conjunto está formado por dos piezas principales: un calibrador y un soporte
 
 **Evidencia 7. Plano técnico del ensamblaje**
 
-![Plano técnico del ensamblaje](Evidencia_01_Plano_Ensamblaje.png)
+![Plano técnico del ensamblaje](Evidencias/Evidencia_01_Plano_Ensamblaje.png)
 
 En esta imagen se observa el plano del ensamblaje completo, con sus vistas, dimensiones generales y lista de componentes.
 
 **Evidencia 8. Archivo PDF del ensamblaje**
 
-[Ver plano técnico del ensamblaje en PDF](ICT401_Fase4_Plano_Ensamblaje.pdf)
+[Ver plano técnico del ensamblaje en PDF](Evidencias/ICT401_Fase4_Plano_Ensamblaje.pdf)
 
 Este documento permite visualizar cómo se encuentran ubicadas las piezas dentro del conjunto y consultar la información técnica del ensamblaje.
 
@@ -130,7 +130,7 @@ Esto nos permite mantener un registro de los resultados y facilitar la consulta 
 
 **Evidencia 9. Entrega de la Fase 4 en GitHub**
 
-![Entrega de la Fase 4 en GitHub](Evidencia_05_Entrega_Final_GitHub.png)
+![Entrega de la Fase 4 en GitHub](Evidencias/Evidencia_05_Entrega_Final_GitHub.png)
 
 En esta captura se muestra la organización de los archivos que forman parte de nuestra entrega, incluyendo los planos PDF, los archivos DXF y las capturas de los planos técnicos.
 
