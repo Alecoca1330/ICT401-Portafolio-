@@ -132,8 +132,7 @@ Esto nos permite mantener un registro de los resultados y facilitar la consulta 
 
 ![Entrega de la Fase 4 en GitHub](Evidencias/Evidencia_05_Entrega_Final_GitHub.png)
 
-En esta captura se muestra la organización de los archivos que forman parte de nuestra entrega, incluyendo los planos PDF, los archivos DXF y las capturas de los planos técnicos.
-
+En esta captura se muestra la organización de los archivos que forman parte de nuestra entrega, incluyendo los planos PDF, los archivos DXF.
 ---
 
 ## 4. Resultados obtenidos
