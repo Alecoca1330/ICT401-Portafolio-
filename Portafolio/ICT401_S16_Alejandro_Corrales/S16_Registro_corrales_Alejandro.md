@@ -5,7 +5,7 @@
 **Semana:** 16  
 **Laboratorio:** Integrador II-B  
 **Valor del laboratorio:** 10 %  
-**Estudiante o equipo:** Manuel Alejandro Corrales Casanova y Francella Madrigal Vargas  
+**Estudiante o equipo:** Manuel Alejandro Corrales Casanova 
 **Proyecto:** Sistema de calibración de diámetros para tornillos en procesos de producción automotriz  
 **Fecha:** 05 de noviembre de 2026  
 **Versión inicial:** `ICT401_Ensamblaje_Fase3`  
