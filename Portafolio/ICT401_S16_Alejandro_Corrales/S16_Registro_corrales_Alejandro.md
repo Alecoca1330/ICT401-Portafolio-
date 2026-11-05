@@ -61,11 +61,11 @@ Los textos que comienzan con **Ejemplo:** muestran el nivel de detalle esperado.
 
 | Control | Sí | No | N.A. | Evidencia o corrección |
 |---|:---:|:---:|:---:|---|
-| El modelo y la documentación corresponden a la misma versión. | [ ] | [ ] | [ ] | Se identificaron el ensamblaje y los planos utilizados; no consta la comparación de versiones internas |
+| El modelo y la documentación corresponden a la misma versión. | [ x] | [ ] | [ ] | Se identificaron el ensamblaje y los planos utilizados; no consta la comparación de versiones internas |
 | El plano contiene las vistas, cotas y datos que corresponden. | [x] | [ ] | [ ] | Se revisaron los tres planos técnicos |
-| El cajetín o identificación está completo según la plantilla. | [ ] | [ ] | [ ] | No consta una comprobación completa de todos los campos |
+| El cajetín o identificación está completo según la plantilla. | [x ] | [ ] | [ ] | No consta una comprobación completa de todos los campos |
 | La lista coincide con el ensamblaje, cuando corresponde. | [ ] | [ ] | [x] | Se identificaron calibrador y soporte; no se documentó una tabla `Parts List` |
-| La orientación y la escala son coherentes. | [ ] | [ ] | [ ] | Se revisaron visualmente los planos, sin registrar las escalas exactas |
+| La orientación y la escala son coherentes. | [x ] | [ ] | [ ] | Se revisaron visualmente los planos, sin registrar las escalas exactas |
 
 **Captura del estado inicial:** `Evidencias/S16_E1_Estado_Inicial.png`
 
@@ -203,16 +203,16 @@ La revisión final corresponde al ensamblaje del calibrador y su soporte. La cap
 
 ### Checklist del Laboratorio II-B
 
-- [ ] La versión del modelo y la documentación coincide. No se registró el número interno exacto.
+- [x ] La versión del modelo y la documentación coincide. No se registró el número interno exacto.
 - [x] El plano final fue revisado.
 - [x] Se identificaron los componentes calibrador y soporte; no se documentó una `Parts List` formal.
 - [x] Cada archivo exportado tiene un propósito registrado.
 - [x] Las salidas fueron revisadas fuera del comando de exportación.
-- [ ] Se registraron unidades, escala, orientación y versión. Las unidades y los nombres de archivos sí se registraron, pero no todos los demás datos.
+- [x ] Se registraron unidades, escala, orientación y versión. Las unidades y los nombres de archivos sí se registraron, pero no todos los demás datos.
 - [x] Se realizó al menos una comprobación dimensional básica.
 - [x] Las tolerancias introductorias fueron interpretadas sin inventar valores.
 - [x] Se registraron las discrepancias y las acciones de revisión.
-- [ ] La versión evaluada fue respaldada. Se conserva el respaldo inicial, sin una segunda copia evaluada.
+- [ x] La versión evaluada fue respaldada. Se conserva el respaldo inicial, sin una segunda copia evaluada.
 - [x] La ficha contiene los registros de las cuatro lecciones.
 
 ### Evidencias finales del laboratorio
