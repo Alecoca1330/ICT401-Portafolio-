@@ -143,9 +143,9 @@ Estos archivos permiten abrir los diseños originales, consultar sus caracterís
 
 Los planos finales se encuentran disponibles en la carpeta `Planos_PDF`.
 
-- [Plano técnico del calibrador](Planos_PDF/ICT401_Fase4_Plano_Calibrador.pdf)
-- [Plano técnico del soporte](Planos_PDF/ICT401_Fase4_Plano_Soporte.pdf)
-- [Plano técnico del ensamblaje](Planos_PDF/ICT401_Fase4_Plano_Ensamblaje.pdf)
+- [Plano técnico del calibrador](ICT401_Fase4_Plano_Calibrador.pdf)
+- [Plano técnico del soporte](ICT401_Fase4_Plano_Soporte.pdf)
+- [Plano técnico del ensamblaje](ICT401_Fase4_Plano_Ensamblaje.pdf)
 
 Estos documentos contienen la representación gráfica de las piezas y permiten consultar las vistas y dimensiones utilizadas en el proyecto.
 
@@ -155,8 +155,8 @@ Se generaron archivos DXF para conservar los dibujos técnicos individuales en u
 
 Los archivos disponibles son:
 
-- [DXF del calibrador](Archivos_DXF/ICT401_Calibrador_Final.dxf)
-- [DXF del soporte](Archivos_DXF/ICT401_Soporte_Final.dxf)
+- [DXF del calibrador](ICT401_Calibrador_Final.dxf)
+- [DXF del soporte](ICT401_Soporte_Final.dxf)
 
 El formato DXF se seleccionó por su utilidad para compartir geometría de dibujo técnico. Por su parte, los PDF permiten visualizar e imprimir los planos y los archivos nativos de Fusion 360 permiten continuar editando los modelos.
 
