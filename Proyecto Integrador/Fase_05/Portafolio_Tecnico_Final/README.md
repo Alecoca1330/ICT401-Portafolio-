@@ -11,6 +11,18 @@
 **Fecha:** Noviembre de 2026
 
 ---
+<h2 align="center">⚙️ SISTEMA DE CALIBRACIÓN DE DIÁMETROS</h2>
+<h3 align="center">Vista general del ensamblaje final</h3>
+
+<p align="center">
+  <img src="Ensamblaje_Final.png" alt="Ensamblaje del calibrador y soporte" width="480">
+</p>
+
+<p align="center">
+  <em>Figura 1. Modelo tridimensional del calibrador y su soporte, desarrollado en Autodesk Fusion 360.</em>
+</p>
+
+---
 
 ## 1. Introducción
 
